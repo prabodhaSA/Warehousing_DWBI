@@ -1,0 +1,4399 @@
+﻿Road_Id,Road_Name,Road_category,Road_Type
+1,M1,TM,Single carriageway
+2,M621,TM,Single carriageway
+3,M18,TM,One way street
+4,M62,TM,Single carriageway
+5,A614,TR,Single carriageway
+6,M621,TM,Roundabout
+7,A1,TM,One way street
+8,A1,TM,Single carriageway
+9,A1,TR,Single carriageway
+10,A18,PR,Single carriageway
+11,A18,PR,Dual carriageway
+12,A46,PU,Single carriageway
+13,A57,PR,Single carriageway
+14,A58,PR,Single carriageway
+15,A58,TU,Single carriageway
+16,A58,PU,One way street
+17,A59,PR,Single carriageway
+18,A60,PU,Single carriageway
+19,A61,PR,Dual carriageway
+20,A61,PU,Single carriageway
+21,A62,PU,Single carriageway
+22,A63,TU,Single carriageway
+23,A65,TR,Single carriageway
+24,A65,PU,Single carriageway
+25,A66,TM,Dual carriageway
+26,A614,PR,Dual carriageway
+27,A164,PU,Single carriageway
+28,A165,PR,Single carriageway
+29,A165,PU,Single carriageway
+30,A167,PR,One way street
+31,A170,PR,Single carriageway
+32,A172,PR,Single carriageway
+33,A614,PU,Single carriageway
+34,A616,TR,Single carriageway
+35,A6135,PU,Single carriageway
+36,A618,PU,Single carriageway
+37,A639,PU,Single carriageway
+38,A629,PR,Single carriageway
+39,A629,PR,One way street
+40,A6178,PU,Single carriageway
+41,A631,PU,Single carriageway
+42,A633,PU,Single carriageway
+43,A635,PR,Single carriageway
+44,A638,PU,Single carriageway
+45,A638,PR,Single carriageway
+46,A639,PU,Dual carriageway
+47,A640,PR,Single carriageway
+48,A641,PU,One way street
+49,A642,PR,Single carriageway
+50,A643,PU,Single carriageway
+51,A643,PU,Dual carriageway
+52,A644,PU,Single carriageway
+53,A645,PU,Single carriageway
+54,A646,TU,Single carriageway
+55,A6181,PU,Dual carriageway
+56,A647,PU,Single carriageway
+57,A649,PU,Single carriageway
+58,A650,TU,Single carriageway
+59,A650,PU,Dual carriageway
+60,A651,PU,Dual carriageway
+61,A654,PR,Single carriageway
+62,A655,PU,Single carriageway
+63,A658,PR,Single carriageway
+64,A658,PU,Single carriageway
+65,A659,PR,Dual carriageway
+66,A1029,PU,Single carriageway
+67,A1033,TU,Single carriageway
+68,A1035,PU,Dual carriageway
+69,A1041,TR,Roundabout
+70,A1077,PR,Single carriageway
+71,A1079,TR,Roundabout
+72,A1174,PU,Single carriageway
+73,A629,PU,Single carriageway
+74,A6026,PU,Single carriageway
+75,A6036,PU,Single carriageway
+76,A6038,PU,Dual carriageway
+77,A6107,PU,Single carriageway
+78,A630,PU,Single carriageway
+79,A6120,TU,Single carriageway
+80,A6135,PR,Single carriageway
+81,A659,PR,Single carriageway
+82,A18,PU,Single carriageway
+83,A61,PU,Dual carriageway
+84,A6102,PU,Dual carriageway
+85,A58,PU,Single carriageway
+86,A6142,PU,Single carriageway
+87,A6177,PU,Single carriageway
+88,A6021,PU,Single carriageway
+89,A6182,PR,Single carriageway
+90,A164,PR,Single carriageway
+91,A64,TR,Single carriageway
+92,A1136,PU,Single carriageway
+93,A57,PU,Single carriageway
+94,M18,TM,Single carriageway
+95,A659,PU,Single carriageway
+96,A1036,PU,Single carriageway
+97,A63,TR,Single carriageway
+98,A6021,PU,Dual carriageway
+99,A16,PU,Single carriageway
+100,A1166,PU,Single carriageway
+101,A1036,PU,Dual carriageway
+102,A61,PU,One way street
+103,A661,PR,Single carriageway
+104,A6035,PU,Single carriageway
+105,A660,PU,One way street
+106,A64,PM,Single carriageway
+107,A6037,PU,Single carriageway
+108,A650,PU,Single carriageway
+109,A6109,PU,Single carriageway
+110,A616,TR,One way street
+111,A1237,PR,Single carriageway
+112,A621,PU,Dual carriageway
+113,A180,PU,Single carriageway
+114,A635,PU,Single carriageway
+115,M180,TM,Single carriageway
+116,A18,PU,One way street
+117,A18,PR,One way street
+118,A19,PR,Dual carriageway
+119,A46,PR,Single carriageway
+120,A57,TR,Single carriageway
+121,A58,TU,Dual carriageway
+122,A59,PU,Single carriageway
+123,A59,TR,Single carriageway
+124,A61,PR,One way street
+125,A653,PU,Single carriageway
+126,A64,PU,Single carriageway
+127,A162,PR,One way street
+128,A614,PR,Single carriageway
+129,A164,PU,Dual carriageway
+130,A165,PR,Dual carriageway
+131,A166,PR,Single carriageway
+132,A168,TR,Single carriageway
+133,A170,PR,One way street
+134,A614,PR,Roundabout
+135,A621,PU,One way street
+136,A630,PR,Single carriageway
+137,A631,PU,One way street
+138,A631,PR,Single carriageway
+139,A633,PU,Dual carriageway
+140,A637,PR,One way street
+141,A638,PU,Dual carriageway
+142,A638,TU,Single carriageway
+143,A639,PR,Single carriageway
+144,A641,PU,Single carriageway
+145,A642,PU,Single carriageway
+146,A646,TR,Dual carriageway
+147,A651,PU,Single carriageway
+148,A656,PR,One way street
+149,A657,PU,Dual carriageway
+150,A660,PU,Single carriageway
+151,A672,PR,Dual carriageway
+152,A687,PR,Single carriageway
+153,A1034,PR,Single carriageway
+154,A1039,PR,Single carriageway
+155,A1098,PR,Roundabout
+156,A6024,PU,One way street
+157,A6110,PU,Single carriageway
+158,A6120,PU,Single carriageway
+159,A6136,PR,Single carriageway
+160,A6123,PU,Single carriageway
+161,A6181,PU,Single carriageway
+162,A15,TR,Single carriageway
+163,A1105,PU,Single carriageway
+164,A1165,PU,Dual carriageway
+165,A180,TR,Single carriageway
+166,A65,TR,One way street
+167,A6069,PR,Single carriageway
+168,A61,PR,Single carriageway
+169,A171,PU,Single carriageway
+170,A660,TU,Single carriageway
+171,A1173,PR,Single carriageway
+172,A1237,TR,Single carriageway
+173,A621,PU,Single carriageway
+174,A629,TR,Single carriageway
+175,A19,TR,Single carriageway
+176,A1079,TR,Single carriageway
+177,A6102,PU,Single carriageway
+178,A1077,PR,Dual carriageway
+179,M1,TM,Dual carriageway
+180,M606,TM,Single carriageway
+181,A18,PU,Dual carriageway
+182,A19,PU,Single carriageway
+183,A19,TR,One way street
+184,A65,PU,One way street
+185,A66,TR,Single carriageway
+186,A163,PR,Single carriageway
+187,A167,PR,Single carriageway
+188,A169,PR,Dual carriageway
+189,A174,PR,Single carriageway
+190,A616,PR,Single carriageway
+191,A628,PR,Single carriageway
+192,A634,PR,Single carriageway
+193,A636,PR,Single carriageway
+194,A644,PR,Single carriageway
+195,A647,PU,Roundabout
+196,A650,TU,Dual carriageway
+197,A650,PU,One way street
+198,A654,PU,Single carriageway
+199,A656,PU,Single carriageway
+200,A657,PU,Single carriageway
+201,A658,PU,Roundabout
+202,A1146,PR,Single carriageway
+203,A6029,PU,Single carriageway
+204,A6033,PR,Single carriageway
+205,A6036,PU,Dual carriageway
+206,A6038,PR,Single carriageway
+207,A6101,PU,Single carriageway
+208,A6108,PR,Single carriageway
+209,A6022,PU,Single carriageway
+210,A6133,PU,Roundabout
+211,A1165,PU,Single carriageway
+212,A6131,PU,Single carriageway
+213,A61,PR,Roundabout
+214,A1029,PU,Roundabout
+215,A63,TU,Dual carriageway
+216,A1079,PU,Single carriageway
+217,A661,PR,Dual carriageway
+218,A635,PR,One way street
+219,A61,TR,Single carriageway
+220,A1136,PU,One way street
+221,A650,TR,Single carriageway
+222,A6023,PU,Single carriageway
+223,A661,PU,Single carriageway
+224,A635,PU,Dual carriageway
+225,M1,TM,One way street
+226,M62,TM,One way street
+227,M181,TM,Single carriageway
+228,A60,PR,Dual carriageway
+229,A1105,PU,Roundabout
+230,A161,PR,Single carriageway
+231,A166,PR,Dual carriageway
+232,A171,PR,Dual carriageway
+233,A614,PR,One way street
+234,A618,PR,Single carriageway
+235,A628,PU,Single carriageway
+236,A6178,PU,Dual carriageway
+237,A633,PR,Single carriageway
+238,A637,PR,Single carriageway
+239,A640,PU,Single carriageway
+240,A645,PR,Single carriageway
+241,A652,PU,Single carriageway
+242,A684,PR,Single carriageway
+243,A1035,PR,Single carriageway
+244,A1041,PR,Dual carriageway
+245,A1098,PU,Single carriageway
+246,A6034,PR,Single carriageway
+247,A6038,PU,Single carriageway
+248,A6055,PR,Single carriageway
+249,A6108,PR,Roundabout
+250,A6120,TU,One way street
+251,A630,PU,Dual carriageway
+252,A631,TU,Roundabout
+253,A629,TR,One way street
+254,A625,PU,Single carriageway
+255,A642,PU,Dual carriageway
+256,A160,TR,Single carriageway
+257,A1237,TU,Single carriageway
+258,A616,PR,Dual carriageway
+259,M18,TM,Dual carriageway
+260,A1033,PU,Single carriageway
+261,A6133,PU,Single carriageway
+262,A19,PR,Single carriageway
+263,A58,PM,Single carriageway
+264,A1,TR,Dual carriageway
+265,A65,PR,Single carriageway
+266,A167,PU,Single carriageway
+267,A169,PR,Single carriageway
+268,A637,PU,Single carriageway
+269,A646,PU,Single carriageway
+270,A655,PR,Single carriageway
+271,A660,TR,Single carriageway
+272,A6024,PR,Single carriageway
+273,A6025,PU,Single carriageway
+274,A6033,PU,Single carriageway
+275,A6101,PR,Single carriageway
+276,A6110,PU,Dual carriageway
+277,A6176,PU,Single carriageway
+278,A6139,PU,Single carriageway
+279,A6040,PU,Single carriageway
+280,A1038,PU,Single carriageway
+281,A58,PU,Roundabout
+282,A1036,PU,Roundabout
+283,A1173,PU,Single carriageway
+284,A6040,PU,One way street
+285,A19,TU,Single carriageway
+286,A16,PR,Single carriageway
+287,A171,PR,Single carriageway
+288,A168,PR,Single carriageway
+289,A159,PU,Single carriageway
+290,A162,PR,Single carriageway
+291,A6032,PU,Single carriageway
+292,A616,PU,Single carriageway
+293,A625,PR,Dual carriageway
+294,A636,PU,Single carriageway
+295,A6102,PR,Single carriageway
+296,A656,PR,Single carriageway
+297,A681,PR,Single carriageway
+298,A1031,PU,Single carriageway
+299,A1033,PR,Single carriageway
+300,A1084,PR,Single carriageway
+301,A6068,PU,Single carriageway
+302,A647,PU,Dual carriageway
+303,A1029,PR,Single carriageway
+304,A6186,PU,Single carriageway
+305,A6195,PR,Single carriageway
+306,A628,TR,Single carriageway
+307,A6036,PR,Single carriageway
+308,A641,PU,Dual carriageway
+309,A672,PR,Single carriageway
+310,A60,PR,Single carriageway
+311,A1041,TR,Single carriageway
+312,A1079,PR,Single carriageway
+313,A653,PU,Dual carriageway
+314,A56,PR,Single carriageway
+315,A682,PR,Single carriageway
+316,A639,PR,Dual carriageway
+317,A1,TM,Dual carriageway
+318,A64,TR,Dual carriageway
+319,A1033,TU,Dual carriageway
+320,A1031,PR,Dual carriageway
+321,A16,TR,Dual carriageway
+322,A160,TR,Dual carriageway
+323,A57,PU,Dual carriageway
+324,M62,TM,Dual carriageway
+325,A1,TU,Single carriageway
+326,A638,TR,Single carriageway
+327,A58,PU,Dual carriageway
+328,A61,PU,Roundabout
+329,A653,PU,Roundabout
+330,A645,PU,Dual carriageway
+331,A1,TU,Dual carriageway
+332,A162,TR,Single carriageway
+333,A168,PR,Dual carriageway
+334,A168,TR,Roundabout
+335,A6177,PU,Roundabout
+336,A629,PU,Dual carriageway
+337,A652,PU,One way street
+338,A62,PU,Dual carriageway
+339,A62,PU,One way street
+340,A6135,PR,One way street
+341,A629,PR,Dual carriageway
+342,A64,TR,Roundabout
+343,A59,PU,Dual carriageway
+344,A1243,PU,Dual carriageway
+345,A46,PU,Dual carriageway
+346,A16,PR,Dual carriageway
+347,A6135,PU,One way street
+348,A1176,PU,Single carriageway
+349,A6055,PR,Dual carriageway
+350,A621,PR,Single carriageway
+351,A618,PU,One way street
+352,A630,PR,One way street
+353,A57,PU,One way street
+354,A630,PR,Dual carriageway
+355,A6101,PU,Dual carriageway
+356,A634,PU,Single carriageway
+357,A630,PU,One way street
+358,A164,PR,One way street
+359,A639,PU,One way street
+360,A645,PU,Roundabout
+361,A6182,PU,Single carriageway
+362,A645,PU,One way street
+363,A161,PU,Dual carriageway
+364,A1031,PR,Single carriageway
+365,A1136,PR,Single carriageway
+366,A59,PR,Dual carriageway
+367,A6055,PU,Single carriageway
+368,A6024,PU,Single carriageway
+369,A1105,PR,Single carriageway
+370,A642,PR,Dual carriageway
+371,A62,PR,Single carriageway
+372,A642,PR,One way street
+373,A629,PU,One way street
+374,A6120,TR,One way street
+375,A64,TU,Single carriageway
+376,A6120,TU,Roundabout
+377,A660,TR,One way street
+378,A168,PU,Single carriageway
+379,A684,PU,Single carriageway
+380,A6108,PU,Single carriageway
+381,A170,PU,Dual carriageway
+382,A159,PR,Single carriageway
+383,A1077,PU,Single carriageway
+384,A1041,TU,One way street
+385,A63,TR,One way street
+386,A6131,PR,Single carriageway
+387,A6069,PU,Single carriageway
+388,A6131,PR,Dual carriageway
+389,A646,TR,Single carriageway
+390,A171,PR,One way street
+391,A174,PU,Single carriageway
+392,A1036,PR,Single carriageway
+393,A57,TU,Roundabout
+394,A57,TR,Roundabout
+395,A1243,PR,Single carriageway
+396,A65,TU,Single carriageway
+397,A6068,PR,Single carriageway
+398,A645,PR,Dual carriageway
+399,A173,PR,Single carriageway
+400,A6195,PU,Dual carriageway
+401,A6187,PR,Single carriageway
+402,A160,PU,Dual carriageway
+403,A6195,PU,Single carriageway
+404,M62,TM,Roundabout
+405,A1,TR,One way street
+406,A66,TM,One way street
+407,A165,PR,One way street
+408,A172,PR,Dual carriageway
+409,A614,TR,Dual carriageway
+410,A629,PR,Roundabout
+411,A633,PU,Roundabout
+412,A638,PU,One way street
+413,A638,PR,One way street
+414,A644,PU,One way street
+415,A1035,PU,Single carriageway
+416,A1079,TR,Dual carriageway
+417,A164,PR,Dual carriageway
+418,A1166,PU,One way street
+419,M621,TM,Dual carriageway
+420,A6037,PU,Dual carriageway
+421,A1237,PR,Dual carriageway
+422,A180,PU,Dual carriageway
+423,M180,TM,Dual carriageway
+424,A62,PU,Roundabout
+425,A631,PR,Roundabout
+426,A647,PU,One way street
+427,A1098,PR,Single carriageway
+428,A6120,PU,One way street
+429,A1173,PR,Dual carriageway
+430,A1166,PU,Dual carriageway
+431,A1237,TR,Dual carriageway
+432,A65,PU,Dual carriageway
+433,A66,TR,Dual carriageway
+434,A628,PR,Dual carriageway
+435,A644,PR,Dual carriageway
+436,A658,PU,Dual carriageway
+437,A659,PU,Dual carriageway
+438,A6107,PU,Dual carriageway
+439,A6120,PU,Dual carriageway
+440,A6102,PU,One way street
+441,A6035,PU,Dual carriageway
+442,M1,TM,Roundabout
+443,A1,TM,Roundabout
+444,A628,PU,Dual carriageway
+445,A635,PR,Dual carriageway
+446,A1041,PR,Single carriageway
+447,A1079,PU,Dual carriageway
+448,A6034,PR,Dual carriageway
+449,A6120,TU,Dual carriageway
+450,A631,TU,Single carriageway
+451,A59,TR,Dual carriageway
+452,A1077,PR,One way street
+453,M18,TM,Roundabout
+454,M180,TM,One way street
+455,A18,PR,Slip road
+456,A58,PR,Dual carriageway
+457,A61,PU,Slip road
+458,A65,PR,Dual carriageway
+459,A170,PR,Dual carriageway
+460,A171,PU,Dual carriageway
+461,A684,PR,Dual carriageway
+462,A6025,PU,Dual carriageway
+463,A161,PR,Dual carriageway
+464,A6131,PU,Dual carriageway
+465,A64,PU,One way street
+466,A625,PR,Single carriageway
+467,A1079,PU,One way street
+468,A1165,PU,One way street
+469,A6135,PR,Dual carriageway
+470,A6038,PR,Dual carriageway
+471,A6036,PR,One way street
+472,A631,PR,Dual carriageway
+473,A16,TR,Single carriageway
+474,A180,TR,Dual carriageway
+475,A180,TR,Roundabout
+476,A660,TR,Dual carriageway
+477,A6177,PU,Dual carriageway
+478,A638,PR,Dual carriageway
+479,A61,TR,Dual carriageway
+480,A1243,PU,Single carriageway
+481,A64,PU,Dual carriageway
+482,A19,PU,Dual carriageway
+483,A161,PU,Single carriageway
+484,A6055,PU,One way street
+485,A1173,PU,Dual carriageway
+486,A6120,TR,Single carriageway
+487,A658,PR,Dual carriageway
+488,A6108,PU,Slip road
+489,A170,PU,Single carriageway
+490,A57,TU,Single carriageway
+491,A160,PU,Single carriageway
+492,A6195,PU,One way street
+493,A66,TM,Single carriageway
+494,A164,PU,One way street
+495,A646,TU,One way street
+496,A650,TU,One way street
+497,A6021,PU,One way street
+498,A63,TR,Dual carriageway
+499,A168,TR,Dual carriageway
+500,A15,PR,Single carriageway
+501,A6177,PU,One way street
+502,A629,TR,Dual carriageway
+503,A165,PU,Dual carriageway
+504,A19,TR,Dual carriageway
+505,M606,TM,Dual carriageway
+506,A167,PR,Dual carriageway
+507,A634,PR,One way street
+508,A642,PU,One way street
+509,A643,PU,One way street
+510,A655,PU,One way street
+511,A6022,PU,One way street
+512,A1173,PR,One way street
+513,A1029,PU,One way street
+514,A57,PR,Dual carriageway
+515,A59,PU,Roundabout
+516,A58,PR,One way street
+517,A64,PR,One way street
+518,A635,PU,One way street
+519,A643,PU,Roundabout
+520,A6025,PU,Roundabout
+521,A6176,PU,One way street
+522,A167,PU,Dual carriageway
+523,A65,TR,Dual carriageway
+524,M621,TM,One way street
+525,A58,PM,Dual carriageway
+526,A1,TR,Roundabout
+527,A164,PR,Roundabout
+528,A1238,PU,Single carriageway
+529,A6102,PR,One way street
+530,A650,PU,Roundabout
+531,A1036,PU,One way street
+532,A6136,PR,One way street
+533,A15,PR,One way street
+534,A6181,PU,Roundabout
+535,A64,TR,One way street
+536,A629,TR,Roundabout
+537,A163,PR,Dual carriageway
+538,A1105,PU,Dual carriageway
+539,A640,PR,Dual carriageway
+540,A636,PU,One way street
+541,A162,TR,One way street
+542,A57,PU,Roundabout
+543,A64,PU,Roundabout
+544,A19,PU,Roundabout
+545,A621,PR,Slip road
+546,A6135,PU,Dual carriageway
+547,A6195,PR,Roundabout
+548,A635,PR,Slip road
+549,A638,TU,Dual carriageway
+550,A63,TR,Roundabout
+551,A59,PR,Roundabout
+552,A18,PR,Roundabout
+553,A58,PU,Slip road
+554,A646,TU,Roundabout
+555,A159,PR,Dual carriageway
+556,A1041,TU,Single carriageway
+557,A1041,TR,Dual carriageway
+558,A65,TR,Roundabout
+559,A614,PU,Roundabout
+560,A616,TR,Roundabout
+561,A640,PR,Slip road
+562,A642,PR,Slip road
+563,A650,TU,Roundabout
+564,A6142,PU,Slip road
+565,A63,PR,Slip road
+566,A1077,PR,Slip road
+567,A6035,PU,Slip road
+568,A660,PU,Dual carriageway
+569,A6109,PU,Dual carriageway
+570,M621,TM,Slip road
+571,A637,PR,Roundabout
+572,A656,PR,Dual carriageway
+573,A6136,PR,Roundabout
+574,A180,TR,One way street
+575,A660,PU,Roundabout
+576,A1079,PR,Dual carriageway
+577,A6109,PU,Roundabout
+578,A64,PM,Roundabout
+579,A638,PU,Roundabout
+580,A1098,PU,One way street
+581,A6035,PU,One way street
+582,A58,PR,Roundabout
+583,A64,PR,Single carriageway
+584,A660,PR,Single carriageway
+585,A6176,PU,Dual carriageway
+586,A64,PR,Dual carriageway
+587,A618,PR,Dual carriageway
+588,A684,PR,One way street
+589,A6102,PR,Roundabout
+590,A6068,PU,Dual carriageway
+591,A616,TR,Dual carriageway
+592,A636,PU,Dual carriageway
+593,A672,PR,One way street
+594,A630,PR,Roundabout
+595,A1033,PR,Roundabout
+596,A659,PR,Roundabout
+597,A59,PU,One way street
+598,A618,PU,Roundabout
+599,A631,PU,Dual carriageway
+600,A642,PR,Roundabout
+601,A636,PU,Roundabout
+602,A6120,PR,Single carriageway
+603,A65,PR,Roundabout
+604,A646,TR,Roundabout
+605,A1036,PR,Dual carriageway
+606,A6068,PR,Roundabout
+607,A57,PR,One way street
+608,A654,PR,Roundabout
+609,A63,PR,Single carriageway
+610,M180,TM,Roundabout
+611,A63,TR,Slip road
+612,A162,PR,Dual carriageway
+613,A642,PU,Slip road
+614,A646,PR,Single carriageway
+615,A6120,PU,Slip road
+616,A165,PU,One way street
+617,A15,PR,Dual carriageway
+618,A628,PR,Roundabout
+619,A642,PU,Roundabout
+620,A644,PR,Roundabout
+621,A656,PU,Roundabout
+622,A1146,PR,Dual carriageway
+623,A6037,PU,One way street
+624,A6107,PU,One way street
+625,A635,PU,Roundabout
+626,A614,PR,Slip road
+627,A629,PR,Slip road
+628,A644,PU,Dual carriageway
+629,A645,PR,Slip road
+630,A1098,PU,Dual carriageway
+631,A1174,PU,Dual carriageway
+632,A6108,PR,Dual carriageway
+633,A6181,PU,One way street
+634,A1237,PU,Single carriageway
+635,A628,PU,Roundabout
+636,A58,PM,One way street
+637,A636,PR,One way street
+638,A637,PU,Dual carriageway
+639,A641,PU,Roundabout
+640,A645,PR,Roundabout
+641,A646,PU,Roundabout
+642,A652,PU,Roundabout
+643,A655,PR,Roundabout
+644,A660,PR,One way street
+645,A6024,PR,One way street
+646,A6139,PU,Dual carriageway
+647,A631,PU,Roundabout
+648,A46,PU,Roundabout
+649,A644,PU,Roundabout
+650,A618,PR,One way street
+651,A6102,PR,Dual carriageway
+652,A1031,PU,Dual carriageway
+653,A1077,PR,Roundabout
+654,A1079,PR,Roundabout
+655,A635,PR,Roundabout
+656,A629,TR,Slip road
+657,A1033,PR,Dual carriageway
+658,A636,PR,Roundabout
+659,A1,TU,Roundabout
+660,A1,TU,Slip road
+661,A168,PR,Roundabout
+662,A6102,PU,Slip road
+663,A165,PU,Roundabout
+664,A646,PU,Slip road
+665,A6120,PU,Roundabout
+666,A6038,PR,Roundabout
+667,A684,PU,Dual carriageway
+668,A1041,PU,Roundabout
+669,A6069,PU,Dual carriageway
+670,A647,PU,Slip road
+671,A1243,PR,Dual carriageway
+672,M1,TM,Slip road
+673,A168,PR,One way street
+674,A6187,PR,Dual carriageway
+675,A63,PU,Slip road
+676,A170,PR,Roundabout
+677,A172,PR,One way street
+678,A618,PU,Dual carriageway
+679,A639,PU,Roundabout
+680,A638,PR,Roundabout
+681,A654,PR,Dual carriageway
+682,A1033,TU,Roundabout
+683,A629,PU,Roundabout
+684,A6182,PR,Dual carriageway
+685,A64,TR,Unknown
+686,A1136,PU,Roundabout
+687,A16,PU,Slip road
+688,A661,PR,Slip road
+689,A46,PR,Dual carriageway
+690,A165,PR,Roundabout
+691,A672,PR,Roundabout
+692,A6123,PU,Dual carriageway
+693,A63,PU,Single carriageway
+694,A6069,PR,Dual carriageway
+695,A1173,PR,Roundabout
+696,A1166,PU,Roundabout
+697,A661,PR,Roundabout
+698,M606,TM,Roundabout
+699,A64M,PM,Single carriageway
+700,A163,PR,Slip road
+701,A634,PR,Slip road
+702,A651,PU,Slip road
+703,A654,PU,Roundabout
+704,A656,PU,Slip road
+705,A1146,PR,Roundabout
+706,A6021,PU,Roundabout
+707,A6133,PU,Dual carriageway
+708,A1,TR,Slip road
+709,A630,PU,Roundabout
+710,A63,PR,Dual carriageway
+711,A171,PR,Roundabout
+712,A6178,PU,Roundabout
+713,A649,PU,Dual carriageway
+714,A6102,PU,Roundabout
+715,A166,PR,Roundabout
+716,A171,PU,Roundabout
+717,A646,PU,Dual carriageway
+718,A653,PU,Slip road
+719,A6023,PU,Dual carriageway
+720,A1038,PU,Dual carriageway
+721,A6040,PU,Roundabout
+722,A628,PU,Slip road
+723,A165,PU,Slip road
+724,A1174,PR,Roundabout
+725,A164,PU,Roundabout
+726,A64,PM,Dual carriageway
+727,A6186,PU,Roundabout
+728,A1033,PU,Roundabout
+729,A628,TR,Roundabout
+730,A6033,PR,Dual carriageway
+731,A6036,PR,Dual carriageway
+732,A618,PR,Roundabout
+733,A636,PR,Dual carriageway
+734,A56,PR,Dual carriageway
+735,A682,PR,Dual carriageway
+736,A639,PR,Roundabout
+737,A660,PR,Dual carriageway
+738,A61,TR,One way street
+739,A19,TR,Slip road
+740,A1136,PU,Dual carriageway
+741,A1176,PU,Dual carriageway
+742,A659,TR,Dual carriageway
+743,A172,TR,Single carriageway
+744,A659,TR,Single carriageway
+745,A621,PR,Dual carriageway
+746,A57,PU,Slip road
+747,A655,PU,Dual carriageway
+748,A6182,PU,Dual carriageway
+749,A614,PU,Dual carriageway
+750,A635,PU,Unknown
+751,A6120,PR,Dual carriageway
+752,A167,PU,Roundabout
+753,A1041,PU,Single carriageway
+754,A6069,PU,Roundabout
+755,A6131,PR,Slip road
+756,A174,PU,Slip road
+757,A19,PU,One way street
+758,A1238,PR,Single carriageway
+759,A640,PR,One way street
+760,A658,PU,One way street
+761,A1029,PU,Dual carriageway
+762,A18,PU,Roundabout
+763,A16,PU,One way street
+764,A19,PR,Slip road
+765,A687,PR,Roundabout
+766,A1039,PR,Dual carriageway
+767,A1098,PR,Dual carriageway
+768,A6110,PU,Roundabout
+769,A6135,PU,Slip road
+770,A18,PU,Slip road
+771,A169,PR,One way street
+772,A654,PU,Dual carriageway
+773,A6177,PU,Slip road
+774,A629,PU,Slip road
+775,A1033,PU,Dual carriageway
+776,A1246,TR,Single carriageway
+777,A643,PU,Slip road
+778,A660,PR,Roundabout
+779,A6024,PR,Slip road
+780,A6033,PU,Dual carriageway
+781,A6040,PU,Dual carriageway
+782,A6131,PU,Roundabout
+783,A159,PU,Dual carriageway
+784,A6032,PU,Roundabout
+785,A652,PU,Dual carriageway
+786,A1174,PR,Single carriageway
+787,A162,TU,Single carriageway
+788,A659,TR,One way street
+789,A1136,PR,Dual carriageway
+790,A1237,PR,Roundabout
+791,A6539,PU,Single carriageway
+792,A1(T),TR,One way street
+793,A1(M),TM,Single carriageway
+794,A173,PR,Roundabout
+795,A1033,PU,One way street
+796,A6187,PR,One way street
+797,A646,PU,One way street
+798,A1,PR,Single carriageway
+799,A64M,PM,Dual carriageway
+800,A65,PU,Roundabout
+801,A174,PR,Dual carriageway
+802,A6110,PU,One way street
+803,A631,TU,Dual carriageway
+804,A1246,TR,Dual carriageway
+805,A58,PM,Roundabout
+806,A6069,PR,Roundabout
+807,A1084,PR,Roundabout
+808,A162,PU,Single carriageway
+809,A162,PU,Dual carriageway
+810,A162,PU,Roundabout
+811,A19,TR,Roundabout
+812,A614,PU,One way street
+813,A645,PR,One way street
+814,A62,PR,Dual carriageway
+815,A6033,PU,Roundabout
+816,A6123,PU,One way street
+817,A650,PR,Single carriageway
+818,A1(T),TR,Single carriageway
+819,A1(M),TM,Roundabout
+820,A6026,PU,Dual carriageway
+821,A687,PR,Dual carriageway
+822,A6109,PU,One way street
+823,A65,PR,One way street
+824,A654,PU,One way street
+825,A6022,PU,Dual carriageway
+826,A6178,PU,One way street
+827,A631,TU,One way street
+828,A651,PU,One way street
+829,A16,PR,Roundabout
+830,A1238,PU,One way street
+831,A684,PR,Roundabout
+832,A6023,PU,Roundabout
+833,A640,PR,Roundabout
+834,A19,PR,Roundabout
+835,A6135,PR,Roundabout
+836,A659,TR,Roundabout
+837,A655,PU,Roundabout
+838,A1136,PR,Roundabout
+839,A57,PR,Roundabout
+840,A1035,PR,Roundabout
+841,A1041,PR,Roundabout
+842,A1(M),TM,Dual carriageway
+843,A6195,PU,Roundabout
+844,A659,PU,Roundabout
+845,A635,PU,Slip road
+846,A63,PR,Roundabout
+847,A616,PR,Roundabout
+848,A650,PU,Slip road
+849,A656,PU,Dual carriageway
+850,A6101,PU,Roundabout
+851,A661,PU,Dual carriageway
+852,A640,PU,Roundabout
+853,A649,PU,Roundabout
+854,A1041,PR,One way street
+855,A1174,PU,Roundabout
+856,A1246,PR,Single carriageway
+857,A658,PR,Roundabout
+858,A1039,PR,Roundabout
+859,A6037,PU,Roundabout
+860,A1173,PU,Slip road
+861,A160,TR,Roundabout
+862,A6102,PR,Slip road
+863,A1079,PU,Roundabout
+864,A162,PR,Roundabout
+865,A15,PR,Slip road
+866,M62,TM,Slip road
+867,A684,PR,Slip road
+868,A6195,PR,Dual carriageway
+869,A637,PR,Dual carriageway
+870,A1105,PR,Dual carriageway
+871,A62,PR,One way street
+872,A6038,PU,One way street
+873,A170,PU,Roundabout
+874,A1041,PU,Dual carriageway
+875,A64,TR,Slip road
+876,A6539,PR,Dual carriageway
+877,A162,TR,Dual carriageway
+878,A173,PR,Dual carriageway
+879,A625,PR,Slip road
+880,A60,PU,Dual carriageway
+881,A63,PU,Dual carriageway
+882,A6135,PU,Roundabout
+883,A633,PU,One way street
+884,A661,PR,One way street
+885,A6109,PU,Slip road
+886,A6024,PU,Dual carriageway
+887,A1237,PR,One way street
+888,A651,PU,Roundabout
+889,A171,PR,Slip road
+890,A640,PU,One way street
+891,A644,PU,Slip road
+892,A1035,PR,Dual carriageway
+893,A6055,PR,Roundabout
+894,A1237,PU,Roundabout
+895,A169,PR,Roundabout
+896,A6101,PR,Roundabout
+897,A168,PR,Slip road
+898,A6032,PU,Dual carriageway
+899,A681,PR,Dual carriageway
+900,A1174,PR,Dual carriageway
+901,A1034,PR,Roundabout
+902,A15,PR,Roundabout
+903,A6186,PU,Slip road
+904,A628,TR,Slip road
+905,A163,PR,One way street
+906,A161,PR,Roundabout
+907,A61,PR,Slip road
+908,A6055,PR,Slip road
+909,A172,TR,Roundabout
+910,A1035,PU,Roundabout
+911,A60,PR,Roundabout
+912,A62,PR,Roundabout
+913,A6038,PU,Roundabout
+914,A659,PU,One way street
+915,A168,PU,Dual carriageway
+916,A1077,PU,Dual carriageway
+917,A6131,PR,Roundabout
+918,A1036,PR,Roundabout
+919,A1(M),TM,Slip road
+920,A6539,PR,Single carriageway
+921,A6142,PU,Dual carriageway
+922,A46,PR,Roundabout
+923,A633,PU,Slip road
+924,A1,TM,Slip road
+925,A6029,PU,Slip road
+926,A631,PR,Slip road
+927,A1237,PU,Dual carriageway
+928,A58M,PM,Single carriageway
+929,A653,PU,One way street
+930,A6038,PR,One way street
+931,A6068,PR,One way street
+932,A6021,PR,Single carriageway
+933,A63,TU,Roundabout
+934,M181,TM,Roundabout
+935,A633,PR,One way street
+936,A65,PR,Slip road
+937,A1243,PU,Roundabout
+938,A63,PU,Roundabout
+939,A6195,PR,Slip road
+940,A60,PU,Roundabout
+941,A6026,PU,Roundabout
+942,A16,PU,Dual carriageway
+943,A1034,PR,Dual carriageway
+944,A1033,TU,Slip road
+945,A1105,PU,Slip road
+946,A167,PR,Roundabout
+947,A633,PR,Dual carriageway
+948,A640,PU,Dual carriageway
+949,A657,PU,Roundabout
+950,A621,PU,Roundabout
+951,A657,PU,One way street
+952,A1238,PU,Dual carriageway
+953,A1084,PR,Dual carriageway
+954,A6186,PU,Dual carriageway
+955,A66,TR,Slip road
+956,A61,TR,Roundabout
+957,A1176,PU,Slip road
+958,A634,PU,Roundabout
+959,A6055,PU,Dual carriageway
+960,A6055,TR,Single carriageway
+961,A64M,PM,One way street
+962,A59,PR,One way street
+963,A1034,PR,One way street
+964,A1237,PR,Slip road
+965,A19,PR,One way street
+966,A174,PR,Roundabout
+967,A6033,PR,Roundabout
+968,A168,TR,Slip road
+969,A61,TR,Slip road
+970,A1243,PU,Slip road
+971,A637,PR,Slip road
+972,A19,PU,Slip road
+973,A1136,PR,One way street
+974,A616,PU,Dual carriageway
+975,A6120,PR,Slip road
+976,A646,PR,Roundabout
+977,A174,PU,Dual carriageway
+978,A1036,PR,Slip road
+979,A1036,PR,One way street
+980,A639,PU,Slip road
+981,A6055,PR,One way street
+982,A6055,TR,Dual carriageway
+983,A62,PU,Slip road
+984,A167,PR,Slip road
+985,A638,PR,Slip road
+986,A6026,PU,Slip road
+987,A6182,PR,Roundabout
+988,A57,PR,Slip road
+989,A628,PR,One way street
+990,A6108,PR,Slip road
+991,A65,PU,Slip road
+992,A649,PU,Slip road
+993,A625,PU,Dual carriageway
+994,A655,PR,Dual carriageway
+995,A1173,PU,Roundabout
+996,A167,PU,Slip road
+997,A58M,PM,Slip road
+998,A1031,PU,Roundabout
+999,A6136,PR,Dual carriageway
+1000,A1(M),TM,One way street
+1001,A1031,PR,Roundabout
+1002,A1033,PU,Slip road
+1003,A616,PR,One way street
+1004,A6021,PR,Roundabout
+1005,A6021,PR,Dual carriageway
+1006,A63,PU,One way street
+1007,A66(M),TM,Single carriageway
+1008,A6142,PU,Roundabout
+1009,A646,PR,Dual carriageway
+1010,A6022,PU,Roundabout
+1011,A6035,PU,Roundabout
+1012,A625,PU,Roundabout
+1013,A1029,PR,One way street
+1014,A628,TR,One way street
+1015,A163,PR,Roundabout
+1016,A6120,PR,One way street
+1017,A638,PU,Slip road
+1018,A6123,PU,Roundabout
+1019,A6187,PR,Roundabout
+1020,A625,PR,Roundabout
+1021,M5,TM,Single carriageway
+1022,M5,TM,Roundabout
+1023,M6,TM,Single carriageway
+1024,A5,PR,Single carriageway
+1025,A5,TU,Single carriageway
+1026,A5,TR,Single carriageway
+1027,A34,PU,Single carriageway
+1028,A34,TR,Single carriageway
+1029,A34,PU,Dual carriageway
+1030,A3400,PR,Single carriageway
+1031,A38,TU,Single carriageway
+1032,A38,PU,Single carriageway
+1033,A4400,PU,Single carriageway
+1034,A38,TR,Single carriageway
+1035,A38,TR,Roundabout
+1036,A41,TR,Single carriageway
+1037,A41,PU,Single carriageway
+1038,A41,PU,One way street
+1039,A44,PU,Single carriageway
+1040,A45,TR,Single carriageway
+1041,A45,TR,One way street
+1042,A4600,PU,Single carriageway
+1043,A444,PU,Single carriageway
+1044,A46,TR,One way street
+1045,A49,TR,Single carriageway
+1046,A5191,PU,Single carriageway
+1047,A49,TU,Single carriageway
+1048,A50,PU,Single carriageway
+1049,A522,PR,Single carriageway
+1050,A51,PR,Single carriageway
+1051,A51,PU,Single carriageway
+1052,A52,PU,Single carriageway
+1053,A52,TR,Single carriageway
+1054,A53,PR,Single carriageway
+1055,A53,PU,Single carriageway
+1056,A417,PR,Single carriageway
+1057,A44,PR,Single carriageway
+1058,A3400,PU,Single carriageway
+1059,A4082,PU,Dual carriageway
+1060,A425,PU,Single carriageway
+1061,A426,PU,Single carriageway
+1062,A428,PU,Single carriageway
+1063,A429,PU,Single carriageway
+1064,A429,PR,Single carriageway
+1065,A435,PU,Single carriageway
+1066,A435,TR,Single carriageway
+1067,A438,PR,Single carriageway
+1068,A438,PU,Single carriageway
+1069,A441,PU,Single carriageway
+1070,A442,PR,Single carriageway
+1071,A445,PU,Single carriageway
+1072,A446,TR,Single carriageway
+1073,A449,TR,Single carriageway
+1074,A4150,PU,Single carriageway
+1075,A449,PR,Single carriageway
+1076,A450,PR,Single carriageway
+1077,A451,PU,Single carriageway
+1078,A452,TR,Single carriageway
+1079,A452,PU,Single carriageway
+1080,A452,PR,Single carriageway
+1081,A453,PU,Slip road
+1082,A453,PR,Single carriageway
+1083,A454,PU,Single carriageway
+1084,A456,PU,Single carriageway
+1085,A456,TR,Single carriageway
+1086,A456,PR,Single carriageway
+1087,A457,PU,Dual carriageway
+1088,A458,PU,Single carriageway
+1089,A460,PR,Single carriageway
+1090,A461,PU,Dual carriageway
+1091,A461,PU,Single carriageway
+1092,A462,PR,Single carriageway
+1093,A462,PU,Single carriageway
+1094,A463,PU,Single carriageway
+1095,A465,TU,Single carriageway
+1096,A488,PU,Roundabout
+1097,A489,PR,Single carriageway
+1098,A491,PR,Single carriageway
+1099,A513,PR,Single carriageway
+1100,A515,PR,Dual carriageway
+1101,A518,PU,Dual carriageway
+1102,A519,PR,Single carriageway
+1103,A520,PU,Single carriageway
+1104,A521,PR,Single carriageway
+1105,A525,PR,Single carriageway
+1106,A527,PR,Dual carriageway
+1107,A495,PR,Dual carriageway
+1108,A529,PR,Single carriageway
+1109,A4034,PU,Single carriageway
+1110,A4038,PU,Single carriageway
+1111,A4040,PU,Single carriageway
+1112,A4041,PU,Single carriageway
+1113,A4053,PU,Single carriageway
+1114,A4091,PR,Single carriageway
+1115,A4097,PR,Single carriageway
+1116,A4101,PR,Single carriageway
+1117,A4103,PR,Single carriageway
+1118,A4104,PR,Single carriageway
+1119,A4112,PR,Single carriageway
+1120,A4113,PR,Single carriageway
+1121,A4114,PU,Single carriageway
+1122,A4123,TU,Single carriageway
+1123,A4148,PU,Single carriageway
+1124,A4538,PR,Single carriageway
+1125,A4540,PU,Single carriageway
+1126,A500,TR,Single carriageway
+1127,A5013,PR,Dual carriageway
+1128,A5127,PR,Single carriageway
+1129,A4189,PU,Single carriageway
+1130,A34,PR,Single carriageway
+1131,A4037,PU,Single carriageway
+1132,A4031,PU,Single carriageway
+1133,A4182,PU,Single carriageway
+1134,A518,PU,Single carriageway
+1135,A523,TU,Single carriageway
+1136,M54,TM,Single carriageway
+1137,A38,PR,Single carriageway
+1138,A442,PU,Single carriageway
+1139,A491,PU,Single carriageway
+1140,A500,TU,Single carriageway
+1141,A451,PU,Roundabout
+1142,A438,PR,Roundabout
+1143,A449,PU,Single carriageway
+1144,A459,PU,Single carriageway
+1145,A454,PR,Single carriageway
+1146,M42,TM,Single carriageway
+1147,A483,TR,Single carriageway
+1148,A38,PU,Dual carriageway
+1149,A435,PR,Single carriageway
+1150,A457,PU,Single carriageway
+1151,A461,PR,Single carriageway
+1152,A439,PR,Dual carriageway
+1153,A464,PR,Single carriageway
+1154,A4169,PR,Dual carriageway
+1155,A46,TR,Single carriageway
+1156,A5112,PU,Single carriageway
+1157,M40,TM,Single carriageway
+1158,M40,TM,Dual carriageway
+1159,A422,PR,Single carriageway
+1160,A4031,PU,Dual carriageway
+1161,A49,TR,Dual carriageway
+1162,A523,TR,Single carriageway
+1163,A5,TR,Dual carriageway
+1164,A34,TU,Single carriageway
+1165,A34,PU,One way street
+1166,A4141,PR,Single carriageway
+1167,A45,TU,Dual carriageway
+1168,A45,TR,Roundabout
+1169,A47,PU,Single carriageway
+1170,A511,PU,Dual carriageway
+1171,A5010,PU,Single carriageway
+1172,A52,PR,Single carriageway
+1173,A423,TR,Single carriageway
+1174,A425,PU,Dual carriageway
+1175,A425,PR,Single carriageway
+1176,A426,PR,Single carriageway
+1177,A428,PR,Single carriageway
+1178,A443,PR,Single carriageway
+1179,A445,PR,Single carriageway
+1180,A446,TU,Single carriageway
+1181,A449,TU,Single carriageway
+1182,A449,TU,Roundabout
+1183,A449,TR,Roundabout
+1184,A40,TR,Single carriageway
+1185,A452,TU,Single carriageway
+1186,A453,PU,Single carriageway
+1187,A460,PU,Single carriageway
+1188,A461,PR,Roundabout
+1189,A459,PU,Dual carriageway
+1190,A465,PU,Single carriageway
+1191,A466,PR,Single carriageway
+1192,A495,PR,Single carriageway
+1193,A515,PR,Single carriageway
+1194,A518,PR,Single carriageway
+1195,A520,PR,Single carriageway
+1196,A521,PU,Single carriageway
+1197,A528,PR,Single carriageway
+1198,A4025,PU,Single carriageway
+1199,A4036,PU,One way street
+1200,A4099,PU,Single carriageway
+1201,A4111,PR,Roundabout
+1202,A4126,PU,Single carriageway
+1203,A4123,PU,Single carriageway
+1204,A4124,PU,Single carriageway
+1205,A4137,PR,Single carriageway
+1206,A4168,PU,Single carriageway
+1207,A4540,PU,Roundabout
+1208,A5006,PU,Single carriageway
+1209,A5127,PU,Single carriageway
+1210,A5206,PU,Single carriageway
+1211,A456,PU,Dual carriageway
+1212,A4535,PU,Single carriageway
+1213,M54,TM,One way street
+1214,M50,TM,Single carriageway
+1215,A4254,PU,Dual carriageway
+1216,A4082,PU,Single carriageway
+1217,A4440,PR,Single carriageway
+1218,A5,PU,Single carriageway
+1219,A521,PU,Dual carriageway
+1220,A4133,PR,Single carriageway
+1221,A519,PU,Single carriageway
+1222,A5192,PU,Single carriageway
+1223,A458,PR,Single carriageway
+1224,A4023,PR,Single carriageway
+1225,A4184,PU,Single carriageway
+1226,A451,PR,Single carriageway
+1227,A4177,PR,Single carriageway
+1228,A422,PU,Single carriageway
+1229,A452,PU,Dual carriageway
+1230,A4169,PU,Single carriageway
+1231,A4390,PU,Single carriageway
+1232,A5112,PU,Dual carriageway
+1233,A40,TR,Dual carriageway
+1234,A41,PU,Roundabout
+1235,A45,TU,Single carriageway
+1236,A49,TR,Roundabout
+1237,A441,PR,Single carriageway
+1238,A442,PR,Roundabout
+1239,A448,PR,Single carriageway
+1240,A452,PU,Roundabout
+1241,A456,TR,Roundabout
+1242,A458,TR,Single carriageway
+1243,A4148,PU,Roundabout
+1244,A463,PR,Single carriageway
+1245,A465,PR,Single carriageway
+1246,A490,PR,Dual carriageway
+1247,A513,PU,Single carriageway
+1248,A519,PR,Dual carriageway
+1249,A522,PR,One way street
+1250,A4026,PU,Single carriageway
+1251,A4036,PU,Single carriageway
+1252,A4039,PU,Single carriageway
+1253,A4091,PU,Single carriageway
+1254,A4098,PU,Single carriageway
+1255,A4103,PU,Single carriageway
+1256,A4117,PR,Single carriageway
+1257,A5035,PU,Single carriageway
+1258,A522,PU,Single carriageway
+1259,A51,PU,Dual carriageway
+1260,A528,PU,Dual carriageway
+1261,A4536,PR,Single carriageway
+1262,A444,PU,Roundabout
+1263,A4092,PU,Single carriageway
+1264,A4031,PU,One way street
+1265,A5223,PU,Single carriageway
+1266,A34,TU,Roundabout
+1267,A45,PU,Single carriageway
+1268,M6,TM,Roundabout
+1269,A456,TR,Dual carriageway
+1270,M40,TM,Roundabout
+1271,A4189,PR,Single carriageway
+1272,A38,PM,Single carriageway
+1273,A5223,PR,Single carriageway
+1274,A34,TU,Dual carriageway
+1275,A34,PU,Roundabout
+1276,A4400,PU,Roundabout
+1277,A41,PR,Single carriageway
+1278,A4141,PU,Single carriageway
+1279,A446,TU,Dual carriageway
+1280,A448,PR,Dual carriageway
+1281,A448,PU,Single carriageway
+1282,A5127,PU,Roundabout
+1283,A456,TU,Single carriageway
+1284,A480,PR,Single carriageway
+1285,A491,PR,Dual carriageway
+1286,A520,PR,Roundabout
+1287,A527,PR,Single carriageway
+1288,A531,PR,Single carriageway
+1289,A4100,PU,Single carriageway
+1290,A4103,PR,Roundabout
+1291,A4110,PU,Single carriageway
+1292,A4111,PR,Single carriageway
+1293,A5007,PU,Roundabout
+1294,A5013,PR,Single carriageway
+1295,A5064,PU,Single carriageway
+1296,A5121,PU,Single carriageway
+1297,A456,PR,Roundabout
+1298,A4252,PU,Single carriageway
+1299,A4030,PU,Single carriageway
+1300,A53,PU,Dual carriageway
+1301,A500,TU,Roundabout
+1302,A527,PU,Single carriageway
+1303,A38,TR,Dual carriageway
+1304,A4102,PU,Single carriageway
+1305,A511,PU,Single carriageway
+1306,M42,TM,Dual carriageway
+1307,M45,TM,Roundabout
+1308,A5127,PU,One way street
+1309,A38,PU,One way street
+1310,A41,PU,Dual carriageway
+1311,A45,TU,Roundabout
+1312,A46,TR,Dual carriageway
+1313,A50,TR,Single carriageway
+1314,A51,PU,Roundabout
+1315,A5008,PU,Single carriageway
+1316,A53,PR,Roundabout
+1317,A438,PU,Dual carriageway
+1318,A4101,PU,Single carriageway
+1319,A488,PR,Single carriageway
+1320,A491,PU,Dual carriageway
+1321,A518,PU,One way street
+1322,A4033,PU,Single carriageway
+1323,A4040,PU,Roundabout
+1324,A4110,PR,Single carriageway
+1325,A4126,PU,Roundabout
+1326,A4169,PR,Single carriageway
+1327,A5009,PU,Single carriageway
+1328,A5013,PU,Single carriageway
+1329,A4023,PU,Single carriageway
+1330,A4029,PU,Single carriageway
+1331,A38,TM,Single carriageway
+1332,A525,PU,Single carriageway
+1333,A5189,PU,Single carriageway
+1334,A4254,PU,Single carriageway
+1335,A461,PU,One way street
+1336,A50,PU,Roundabout
+1337,A4390,PR,Single carriageway
+1338,A4182,PU,Roundabout
+1339,M69,TM,Single carriageway
+1340,A5007,PU,Single carriageway
+1341,A523,PU,Single carriageway
+1342,A5182,PR,Single carriageway
+1343,A41,TR,Dual carriageway
+1344,A5148,PR,Single carriageway
+1345,A50,TR,Roundabout
+1346,A444,PR,Single carriageway
+1347,A429,PR,Roundabout
+1348,A452,PR,Roundabout
+1349,A480,PR,Roundabout
+1350,A449,PU,Dual carriageway
+1351,A4123,TU,Dual carriageway
+1352,A451,PR,Dual carriageway
+1353,A444,PU,Slip road
+1354,A4150,PU,Dual carriageway
+1355,A4601,PU,Single carriageway
+1356,A465,TR,Unknown
+1357,A52,PU,Roundabout
+1358,A452,PR,Unknown
+1359,A4100,PU,One way street
+1360,A4133,PR,One way street
+1361,A5,TR,Roundabout
+1362,A4071,PR,Dual carriageway
+1363,A5005,PR,Single carriageway
+1364,A4097,PU,Dual carriageway
+1365,A4113,PR,Roundabout
+1366,A4172,PR,Single carriageway
+1367,A500,TU,Dual carriageway
+1368,A38,PU,Roundabout
+1369,A4535,PU,Roundabout
+1370,A449,TR,Dual carriageway
+1371,A3400,PU,Roundabout
+1372,A4440,PR,Dual carriageway
+1373,A50,PU,Dual carriageway
+1374,A5008,PU,Dual carriageway
+1375,A4168,PU,Roundabout
+1376,A4124,PU,Dual carriageway
+1377,A5127,PU,Dual carriageway
+1378,M6,TM,Dual carriageway
+1379,M6,TM,Unknown
+1380,A3400,PU,Dual carriageway
+1381,A428,PU,Roundabout
+1382,A529,PU,Single carriageway
+1383,A5005,PU,Single carriageway
+1384,A5007,PU,Dual carriageway
+1385,M6,TM,One way street
+1386,A525,PR,Dual carriageway
+1387,A51,PR,Roundabout
+1388,A5011,TU,Single carriageway
+1389,A458,PU,Dual carriageway
+1390,A4099,PU,Dual carriageway
+1391,A4100,PU,Roundabout
+1392,M50,TM,Dual carriageway
+1393,M45,TM,Single carriageway
+1394,M5,TM,Dual carriageway
+1395,A462,PU,Dual carriageway
+1396,A49,TR,Slip road
+1397,A4117,PR,Dual carriageway
+1398,A464,PR,Roundabout
+1399,A4169,PU,Dual carriageway
+1400,A442,PR,Dual carriageway
+1401,A525,PR,Unknown
+1402,A446,TR,Roundabout
+1403,A518,PR,One way street
+1404,A5,TU,Slip road
+1405,A463,PU,One way street
+1406,A4444,PU,Dual carriageway
+1407,A4189,PU,Dual carriageway
+1408,A422,PR,One way street
+1409,A46,TR,Unknown
+1410,A449,TR,One way street
+1411,A38,PR,Roundabout
+1412,A5124,PR,Single carriageway
+1413,A462,PU,Roundabout
+1414,A4031,PU,Roundabout
+1415,A50,TU,Single carriageway
+1416,A4053,PU,Dual carriageway
+1417,A4071,PR,Single carriageway
+1418,A4600,PR,Dual carriageway
+1419,A4123,PU,Dual carriageway
+1420,A5271,PU,Single carriageway
+1421,A572,PU,Single carriageway
+1422,A53,PU,Roundabout
+1423,A442,PU,Dual carriageway
+1424,A50,TU,Dual carriageway
+1425,A50,PU,One way street
+1426,A47,PU,Unknown
+1427,A4112,PR,One way street
+1428,A527,PU,Roundabout
+1429,A527,PU,Dual carriageway
+1430,A448,PU,Dual carriageway
+1431,A5190,PU,Single carriageway
+1432,A5190,PR,Single carriageway
+1433,A5121,PR,Single carriageway
+1434,A511,PR,Single carriageway
+1435,A5121,PR,Roundabout
+1436,A34,PR,Dual carriageway
+1437,A460,PR,Dual carriageway
+1438,A449,PR,Dual carriageway
+1439,A458,PU,Roundabout
+1440,A456,TU,Dual carriageway
+1441,A5190,PU,Roundabout
+1442,A4600,PR,Single carriageway
+1443,A449,PR,Roundabout
+1444,A49,TU,Dual carriageway
+1445,A438,PU,Roundabout
+1446,A465,TR,Single carriageway
+1447,A4025,PR,Single carriageway
+1448,A520,PU,Roundabout
+1449,A53,PU,One way street
+1450,A5206,PR,Single carriageway
+1451,A5192,PR,Single carriageway
+1452,A441,PU,Dual carriageway
+1453,A4071,PU,Single carriageway
+1454,A5112,PR,Roundabout
+1455,A5064,PR,Single carriageway
+1456,A488,PR,Dual carriageway
+1457,A5112,PR,Single carriageway
+1458,A34,TR,Roundabout
+1459,A5005,PU,One way street
+1460,A521,PR,Dual carriageway
+1461,A5011,TR,Single carriageway
+1462,A520,PR,Dual carriageway
+1463,A3400,PR,Dual carriageway
+1464,A453,PU,Dual carriageway
+1465,A443,PU,Single carriageway
+1466,A4390,PU,Dual carriageway
+1467,A449,TU,Dual carriageway
+1468,A451,PU,Slip road
+1469,A4601,PU,Unknown
+1470,A460,PR,Roundabout
+1471,A46,TU,Single carriageway
+1472,A50,TU,One way street
+1473,A4196,PU,Single carriageway
+1474,A4444,PU,Single carriageway
+1475,A5007,PU,Unknown
+1476,A518,PU,Roundabout
+1477,A51,PU,One way street
+1478,A4184,PR,Single carriageway
+1479,A4189,PR,One way street
+1480,A5,PR,Unknown
+1481,A5,TR,One way street
+1482,A38,PU,Unknown
+1483,A49,TU,Roundabout
+1484,A51,PR,Unknown
+1485,A53,PR,One way street
+1486,A417,PR,Unknown
+1487,A44,PR,One way street
+1488,A4082,PU,Roundabout
+1489,A425,PU,One way street
+1490,A4150,PU,One way street
+1491,A451,PU,One way street
+1492,A452,TR,One way street
+1493,A453,PR,One way street
+1494,A454,PU,One way street
+1495,A456,TR,One way street
+1496,A460,PR,One way street
+1497,A462,PU,One way street
+1498,A488,PU,Single carriageway
+1499,A491,PR,One way street
+1500,A4053,PU,One way street
+1501,A4103,PR,One way street
+1502,A4104,PR,One way street
+1503,A4113,PR,One way street
+1504,A4114,PU,Roundabout
+1505,A4540,PU,One way street
+1506,A34,PR,One way street
+1507,A4040,PU,One way street
+1508,A4400,PU,One way street
+1509,A442,PU,Roundabout
+1510,A491,PU,One way street
+1511,A500,TU,One way street
+1512,A454,PR,One way street
+1513,A439,PR,Single carriageway
+1514,A34,TR,Dual carriageway
+1515,A4600,PU,Slip road
+1516,A51,PR,One way street
+1517,A422,PR,Dual carriageway
+1518,A423,TR,One way street
+1519,A429,PR,One way street
+1520,A438,PR,One way street
+1521,A443,PR,One way street
+1522,A453,PU,One way street
+1523,A456,PU,One way street
+1524,A515,PR,Roundabout
+1525,A519,PR,Roundabout
+1526,A4036,PU,Roundabout
+1527,A4538,PR,Roundabout
+1528,A5127,PR,Roundabout
+1529,A520,PU,Dual carriageway
+1530,A4141,PR,Roundabout
+1531,A4390,PU,Roundabout
+1532,A41,TR,Roundabout
+1533,A40,TR,One way street
+1534,A44,PR,Roundabout
+1535,A46,TR,Roundabout
+1536,A49,TR,Unknown
+1537,A52,PR,Dual carriageway
+1538,A445,PU,Roundabout
+1539,A449,PR,Unknown
+1540,A452,PU,One way street
+1541,A459,PU,Roundabout
+1542,A461,PU,Roundabout
+1543,A490,PR,Single carriageway
+1544,A513,PU,Roundabout
+1545,A528,PR,Roundabout
+1546,A4103,PU,Dual carriageway
+1547,A5127,PR,One way street
+1548,A528,PU,Single carriageway
+1549,A5223,PU,Roundabout
+1550,A49,TR,One way street
+1551,A438,PR,Dual carriageway
+1552,A34,TU,One way street
+1553,A41,PR,Roundabout
+1554,A52,PR,Roundabout
+1555,A442,PU,Unknown
+1556,A458,PR,Roundabout
+1557,A518,PR,Roundabout
+1558,A525,PR,One way street
+1559,A4038,PU,Roundabout
+1560,A4039,PU,Roundabout
+1561,A4103,PR,Dual carriageway
+1562,A4110,PU,Dual carriageway
+1563,A4177,PR,Dual carriageway
+1564,A456,PU,Roundabout
+1565,A5191,PU,Roundabout
+1566,A5223,PR,Roundabout
+1567,A425,PR,Roundabout
+1568,A3400,PR,Roundabout
+1569,A47,PU,Roundabout
+1570,A51,PR,Slip road
+1571,A454,PR,Roundabout
+1572,A513,PR,Dual carriageway
+1573,A4110,PR,Dual carriageway
+1574,A5009,PU,Roundabout
+1575,M42,TM,Roundabout
+1576,A4123,PU,One way street
+1577,A456,PR,Dual carriageway
+1578,A50,TR,Dual carriageway
+1579,A454,PU,Roundabout
+1580,A5,PU,Dual carriageway
+1581,M69,TM,Dual carriageway
+1582,A45,PU,One way street
+1583,A45,TR,Dual carriageway
+1584,A459,PU,Slip road
+1585,A453,PR,Dual carriageway
+1586,A449,PU,Roundabout
+1587,A4123,TU,Roundabout
+1588,A500,TR,Roundabout
+1589,A47,PU,Slip road
+1590,A465,TR,Dual carriageway
+1591,A38,PM,Roundabout
+1592,A4097,PU,Single carriageway
+1593,A4172,PR,Dual carriageway
+1594,A4150,PU,Slip road
+1595,A4025,PU,Dual carriageway
+1596,A4023,PR,Roundabout
+1597,A5,PR,Roundabout
+1598,M69,TM,Roundabout
+1599,A5008,PU,Roundabout
+1600,A4124,PU,Unknown
+1601,A423,TR,Dual carriageway
+1602,A38,TM,Unknown
+1603,A529,PR,Dual carriageway
+1604,A51,PR,Dual carriageway
+1605,A5,TU,Roundabout
+1606,A426,PR,Dual carriageway
+1607,A5,PR,Dual carriageway
+1608,A463,PU,Roundabout
+1609,A41,PR,Dual carriageway
+1610,A527,PR,Slip road
+1611,A34,TR,One way street
+1612,A44,PR,Dual carriageway
+1613,A4053,PU,Roundabout
+1614,A4034,PU,Dual carriageway
+1615,A4071,PR,Roundabout
+1616,A4123,PU,Roundabout
+1617,A5272,PU,Dual carriageway
+1618,A5271,PU,Slip road
+1619,A5272,PU,Single carriageway
+1620,A4112,PR,Roundabout
+1621,A522,PR,Roundabout
+1622,A52,PU,Dual carriageway
+1623,A38,PR,Dual carriageway
+1624,A5190,PR,Roundabout
+1625,A4101,PU,Roundabout
+1626,A38,TU,Dual carriageway
+1627,A522,PU,Dual carriageway
+1628,A521,PU,One way street
+1629,A429,PR,Dual carriageway
+1630,A442,PR,Slip road
+1631,A429,PU,Roundabout
+1632,A523,TU,Roundabout
+1633,A5206,PR,Roundabout
+1634,A441,PU,One way street
+1635,A4023,PU,Dual carriageway
+1636,A428,PU,One way street
+1637,A5064,PR,One way street
+1638,A5112,PR,Dual carriageway
+1639,A513,PU,One way street
+1640,A5005,PU,Dual carriageway
+1641,A521,PR,One way street
+1642,A34,TU,Slip road
+1643,A50,PU,Unknown
+1644,A520,PR,One way street
+1645,A3400,PR,One way street
+1646,A513,PU,Unknown
+1647,A443,PU,Dual carriageway
+1648,A452,TU,One way street
+1649,A4390,PU,One way street
+1650,A44,PU,Dual carriageway
+1651,A488,PR,Roundabout
+1652,A52,PU,One way street
+1653,A47,PU,Dual carriageway
+1654,A5190,PR,One way street
+1655,A46,TU,One way street
+1656,A4440,PR,Roundabout
+1657,A49,PR,Single carriageway
+1658,A53,PR,Dual carriageway
+1659,A435,TR,Dual carriageway
+1660,A489,PR,Dual carriageway
+1661,A495,PR,Roundabout
+1662,A4040,PU,Dual carriageway
+1663,A4540,PU,Dual carriageway
+1664,A4037,PU,Dual carriageway
+1665,M54,TM,Roundabout
+1666,A461,PR,Dual carriageway
+1667,A4169,PR,Roundabout
+1668,A4141,PR,Dual carriageway
+1669,A4600,PU,Roundabout
+1670,A423,PR,Single carriageway
+1671,A445,PR,Dual carriageway
+1672,A446,TU,Roundabout
+1673,A452,TU,Dual carriageway
+1674,A462,PR,Dual carriageway
+1675,A4538,PR,Dual carriageway
+1676,A4535,PU,Dual carriageway
+1677,A4133,PR,Dual carriageway
+1678,A458,PR,Dual carriageway
+1679,A52,PU,Unknown
+1680,A5,TR,Unknown
+1681,A448,PR,One way street
+1682,A458,TR,Dual carriageway
+1683,A460,PR,Slip road
+1684,A4148,PU,Dual carriageway
+1685,A444,PU,Dual carriageway
+1686,A4189,PU,Roundabout
+1687,A45,PU,Dual carriageway
+1688,A457,PU,Roundabout
+1689,A38,TR,One way street
+1690,A4141,PU,Roundabout
+1691,A44,PU,Roundabout
+1692,A458,PU,Unknown
+1693,A523,TR,Unknown
+1694,A5013,PR,Unknown
+1695,A4252,PU,Slip road
+1696,A523,TU,Dual carriageway
+1697,A4184,PU,Roundabout
+1698,A49,PR,Dual carriageway
+1699,A525,PR,Roundabout
+1700,A49,PR,One way street
+1701,A458,TR,Roundabout
+1702,A429,PU,One way street
+1703,A435,TR,Roundabout
+1704,A449,PU,One way street
+1705,A449,PR,Slip road
+1706,A452,PR,Dual carriageway
+1707,A4101,PU,One way street
+1708,A519,PU,Roundabout
+1709,A4124,PU,Roundabout
+1710,A5189,PU,Roundabout
+1711,A5192,PU,Dual carriageway
+1712,A4182,PU,Dual carriageway
+1713,A454,PU,Dual carriageway
+1714,A491,PR,Slip road
+1715,A5005,PR,One way street
+1716,A4104,PR,Dual carriageway
+1717,A40,TR,Roundabout
+1718,A441,PR,One way street
+1719,A4600,PU,Dual carriageway
+1720,M42,TM,One way street
+1721,A38,TM,Dual carriageway
+1722,A4098,PU,Dual carriageway
+1723,A4169,PU,Roundabout
+1724,A518,PR,Dual carriageway
+1725,A527,PR,One way street
+1726,A483,TR,Dual carriageway
+1727,A4100,PU,Dual carriageway
+1728,A5008,PU,Unknown
+1729,A50,TU,Roundabout
+1730,A38,TU,Roundabout
+1731,A521,PU,Roundabout
+1732,A5011,TR,Roundabout
+1733,A422,PU,Roundabout
+1734,A422,PR,Roundabout
+1735,A4091,PU,Roundabout
+1736,A513,PU,Dual carriageway
+1737,A443,PU,Roundabout
+1738,A45,PU,Roundabout
+1739,A423,PR,Dual carriageway
+1740,A489,PR,Unknown
+1741,A5190,PU,Dual carriageway
+1742,A5190,PR,Dual carriageway
+1743,A46,TU,Dual carriageway
+1744,A527,PR,Roundabout
+1745,A50,TU,Unknown
+1746,A4196,PU,Roundabout
+1747,A463,PU,Unknown
+1748,A463,PU,Dual carriageway
+1749,A518,PR,Unknown
+1750,A5121,PU,Dual carriageway
+1751,A4184,PR,Dual carriageway
+1752,A4189,PR,Dual carriageway
+1753,A5,TU,Dual carriageway
+1754,A4400,PU,Dual carriageway
+1755,A38,PU,Slip road
+1756,A5191,PU,Dual carriageway
+1757,A522,PR,Dual carriageway
+1758,A417,PR,Slip road
+1759,A426,PU,Dual carriageway
+1760,A428,PU,Dual carriageway
+1761,A429,PU,Dual carriageway
+1762,A435,PU,Dual carriageway
+1763,A441,PU,Slip road
+1764,A445,PU,Dual carriageway
+1765,A446,TR,Dual carriageway
+1766,A449,TR,Slip road
+1767,A450,PR,Dual carriageway
+1768,A451,PU,Dual carriageway
+1769,A452,PU,Slip road
+1770,A461,PU,Slip road
+1771,A465,TU,Dual carriageway
+1772,A488,PU,Dual carriageway
+1773,A4038,PU,Dual carriageway
+1774,A4041,PU,Dual carriageway
+1775,A4091,PR,Dual carriageway
+1776,A4097,PR,Dual carriageway
+1777,A4101,PR,Dual carriageway
+1778,A4103,PR,Slip road
+1779,A4112,PR,Dual carriageway
+1780,A4113,PR,Dual carriageway
+1781,A4114,PU,Dual carriageway
+1782,A500,TR,Dual carriageway
+1783,A5127,PR,Dual carriageway
+1784,A4182,PU,Slip road
+1785,A523,PU,Dual carriageway
+1786,M54,TM,Dual carriageway
+1787,A52,PU,Slip road
+1788,A454,PR,Dual carriageway
+1789,A435,PR,Dual carriageway
+1790,A464,PR,Dual carriageway
+1791,A523,PR,Dual carriageway
+1792,A45,PR,Single carriageway
+1793,A423,PR,Roundabout
+1794,A425,PR,Dual carriageway
+1795,A449,TU,Slip road
+1796,A460,PU,Roundabout
+1797,A528,PR,One way street
+1798,A4025,PU,Slip road
+1799,A41,PU,Slip road
+1800,A422,PU,Dual carriageway
+1801,M40,TM,One way street
+1802,A451,PR,Roundabout
+1803,A463,PR,Dual carriageway
+1804,A4098,PU,Roundabout
+1805,A452,PR,Slip road
+1806,A5223,PR,Dual carriageway
+1807,A428,PR,Dual carriageway
+1808,A462,PR,Roundabout
+1809,A523,PR,Single carriageway
+1810,A491,PU,Roundabout
+1811,A441,PU,Roundabout
+1812,A4101,PU,Dual carriageway
+1813,A480,PR,Dual carriageway
+1814,A448,PU,Roundabout
+1815,A4033,PU,Roundabout
+1816,A4034,PU,Roundabout
+1817,A4036,PU,Dual carriageway
+1818,A4053,PU,Slip road
+1819,A453,PU,Roundabout
+1820,A4030,PU,Roundabout
+1821,A444,PR,Dual carriageway
+1822,A51,PU,Slip road
+1823,A465,TR,Roundabout
+1824,A4133,PR,Roundabout
+1825,A529,PU,One way street
+1826,A5011,PU,Single carriageway
+1827,A45,TR,Slip road
+1828,M50,TM,Roundabout
+1829,M45,TM,Dual carriageway
+1830,M40,TM,Slip road
+1831,A34,PR,Roundabout
+1832,A483,TR,One way street
+1833,A5124,PR,Dual carriageway
+1834,A4034,PU,Unknown
+1835,A5272,PU,Slip road
+1836,A5035,PU,Roundabout
+1837,A460,PU,Dual carriageway
+1838,A4103,PU,Roundabout
+1839,A5206,PR,Unknown
+1840,A4023,PU,Roundabout
+1841,A426,PU,One way street
+1842,A521,PR,Slip road
+1843,A5011,PR,Single carriageway
+1844,A425,PU,Roundabout
+1845,A4601,PU,Dual carriageway
+1846,A4196,PU,Dual carriageway
+1847,A44,PU,One way street
+1848,A445,PU,One way street
+1849,A450,PR,Slip road
+1850,A453,PR,Roundabout
+1851,A521,PR,Roundabout
+1852,A4041,PU,Roundabout
+1853,A4091,PR,Roundabout
+1854,A4097,PR,Roundabout
+1855,A4538,PR,Unknown
+1856,A439,PR,Roundabout
+1857,A520,PU,One way street
+1858,A4141,PR,One way street
+1859,A417,PR,Roundabout
+1860,A435,TR,One way street
+1861,A443,PR,Dual carriageway
+1862,A456,PR,One way street
+1863,A528,PR,Dual carriageway
+1864,A4168,PU,Dual carriageway
+1865,A5006,PU,Roundabout
+1866,A463,PU,Slip road
+1867,A449,TU,One way street
+1868,A459,PU,One way street
+1869,A4091,PU,Dual carriageway
+1870,A4126,PU,Dual carriageway
+1871,A528,PU,One way street
+1872,A4536,PR,Dual carriageway
+1873,A4092,PU,Dual carriageway
+1874,A38,PM,Dual carriageway
+1875,A41,PR,One way street
+1876,A458,PR,One way street
+1877,A531,PR,Dual carriageway
+1878,A4037,PU,One way street
+1879,A4111,PR,Dual carriageway
+1880,A4124,PU,One way street
+1881,A5013,PR,One way street
+1882,A442,PR,One way street
+1883,A4252,PU,Dual carriageway
+1884,A4030,PU,Dual carriageway
+1885,A444,PU,One way street
+1886,A527,PU,One way street
+1887,A44,PR,Slip road
+1888,A465,PR,Dual carriageway
+1889,A466,PR,Dual carriageway
+1890,A4033,PU,Dual carriageway
+1891,A4034,PU,One way street
+1892,A5009,PU,Dual carriageway
+1893,A5035,PU,Dual carriageway
+1894,A4039,PU,Dual carriageway
+1895,M5,TM,Unknown
+1896,A5189,PU,Dual carriageway
+1897,A4182,PU,One way street
+1898,A4030,PU,One way street
+1899,A441,PR,Dual carriageway
+1900,A491,PR,Roundabout
+1901,A441,PR,Roundabout
+1902,A4023,PR,Dual carriageway
+1903,A4600,PU,Unknown
+1904,A529,PR,One way street
+1905,A45,PR,Roundabout
+1906,A4034,PU,Slip road
+1907,M69,TM,One way street
+1908,A5271,PU,Roundabout
+1909,A5272,PU,Roundabout
+1910,A572,PU,Dual carriageway
+1911,A53,PU,Slip road
+1912,A522,PU,Roundabout
+1913,A5064,PR,Dual carriageway
+1914,A525,PU,Dual carriageway
+1915,A5159,PR,Single carriageway
+1916,A53,PR,Slip road
+1917,A5006,PU,Dual carriageway
+1918,M6(T),TM,Roundabout
+1919,M6(T),TM,Single carriageway
+1920,M6(T),TM,Dual carriageway
+1921,A5005,PR,Dual carriageway
+1922,A423,PR,One way street
+1923,A4123,PU,Slip road
+1924,A5191,PU,One way street
+1925,A446,TR,One way street
+1926,A457,PU,One way street
+1927,A465,PU,One way street
+1928,A488,PU,One way street
+1929,A519,PR,Unknown
+1930,A4600,PU,One way street
+1931,A511,PU,Unknown
+1932,A5010,PU,Dual carriageway
+1933,A521,PU,Unknown
+1934,A5206,PU,One way street
+1935,A47,PU,One way street
+1936,A5192,PU,One way street
+1937,A52,PR,One way street
+1938,A4103,PU,One way street
+1939,A45,PU,Unknown
+1940,A417,PR,Dual carriageway
+1941,A454,PU,Unknown
+1942,A4102,PU,Dual carriageway
+1943,A4184,PU,One way street
+1944,A435,TR,Slip road
+1945,A4033,PU,Unknown
+1946,A4390,PR,One way street
+1947,A5182,PR,Dual carriageway
+1948,A448,PR,Roundabout
+1949,A451,PR,Slip road
+1950,A511,PU,One way street
+1951,A529,PU,Dual carriageway
+1952,A5011,PU,One way street
+1953,A4169,PU,Slip road
+1954,A45,PR,Dual carriageway
+1955,A4189,PU,Unknown
+1956,A488,PR,One way street
+1957,M69,TM,Unknown
+1958,A4536,TR,Single carriageway
+1959,A523,PU,Roundabout
+1960,A4169,PR,One way street
+1961,A4189,PU,One way street
+1962,M6(T),TM,One way street
+1963,A50,TR,One way street
+1964,A4071,PU,Dual carriageway
+1965,A489,PR,Roundabout
+1966,A46,TU,Roundabout
+1967,A522,PR,Unknown
+1968,A450,PR,One way street
+1969,A529,PR,Unknown
+1970,A449,TR,Unknown
+1971,A51,PU,Unknown
+1972,A428,PR,Roundabout
+1973,A4111,PR,Unknown
+1974,A441,PU,Unknown
+1975,A464,PR,Unknown
+1976,A41,PR,Unknown
+1977,A463,PR,Roundabout
+1978,A513,PR,Roundabout
+1979,A4104,PR,Roundabout
+1980,A4025,PU,Roundabout
+1981,A5223,PU,Dual carriageway
+1982,A454,PU,Slip road
+1983,A523,PU,One way street
+1984,M42,TM,Unknown
+1985,A49,PR,Roundabout
+1986,M45,TM,Unknown
+1987,A4177,PR,Roundabout
+1988,A4029,PU,Dual carriageway
+1989,A4540,PU,Unknown
+1990,A4097,PU,One way street
+1991,A4148,PU,Slip road
+1992,A5112,PU,One way street
+1993,A38,PM,One way street
+1994,A5011,PU,Dual carriageway
+1995,M5,TM,One way street
+1996,A5271,PU,One way street
+1997,A456,TU,Roundabout
+1998,A426,PU,Roundabout
+1999,A5011,PR,Dual carriageway
+2000,A4390,PR,Dual carriageway
+2001,A5195,PR,Single carriageway
+2002,A4601,PU,Roundabout
+2003,A41,PU,Unknown
+2004,A4123,PU,Unknown
+2005,A442,PR,Unknown
+2006,A445,PR,Roundabout
+2007,A4254,PU,Unknown
+2008,M40,TM,Unknown
+2009,A53,PR,Unknown
+2010,A429,PR,Unknown
+2011,A490,PR,Roundabout
+2012,A4041,PU,One way street
+2013,A528,PU,Unknown
+2014,A4440,PR,One way street
+2015,A438,PR,Slip road
+2016,A34,PU,Unknown
+2017,A34,PU,Slip road
+2018,A4037,PU,Unknown
+2019,A4177,PR,Slip road
+2020,A5064,PU,One way street
+2021,A4252,PU,One way street
+2022,A44,PU,Unknown
+2023,A435,TR,Unknown
+2024,A5009,PU,Slip road
+2025,A5013,PU,Dual carriageway
+2026,M42,TM,Slip road
+2027,A5127,PU,Slip road
+2028,A4097,PR,Slip road
+2029,A46,TR,Slip road
+2030,A425,PU,Slip road
+2031,A5,TR,Slip road
+2032,A442,PU,Slip road
+2033,A45,PU,Slip road
+2034,A5148,PR,Dual carriageway
+2035,A425,PR,Slip road
+2036,A520,PR,Slip road
+2037,A4040,PU,Slip road
+2038,A4039,PU,Slip road
+2039,A465,PR,Unknown
+2040,A528,PR,Slip road
+2041,A428,PU,Unknown
+2042,A4124,PU,Slip road
+2043,A3400,PU,Slip road
+2044,A441,PR,Slip road
+2045,M5,TM,Slip road
+2046,A458,PU,Slip road
+2047,A5112,PU,Slip road
+2048,A50,PU,Slip road
+2049,M6,TM,Slip road
+2050,A527,PU,Slip road
+2051,A38,PR,Slip road
+2052,A4600,PR,Roundabout
+2053,A465,PR,Slip road
+2054,A5192,PR,Roundabout
+2055,A428,PR,Slip road
+2056,A5011,PR,Slip road
+2057,A5159,TR,Single carriageway
+2058,A4099,PU,Roundabout
+2059,A5195,PR,Roundabout
+2060,A5005,PR,Roundabout
+2061,A5121,PU,Roundabout
+2062,A446,PR,Roundabout
+2063,A5112,PU,Roundabout
+2064,A446,PU,Single carriageway
+2065,A5206,PU,Dual carriageway
+2066,A4133,PR,Unknown
+2067,A446,PR,Single carriageway
+2068,A4184,PU,Unknown
+2069,A41,PR,Slip road
+2070,A465,PR,Roundabout
+2071,A4092,PU,Roundabout
+2072,A4440,PR,Slip road
+2073,A458,PR,Unknown
+2074,A5064,PU,Roundabout
+2075,A4117,PR,Roundabout
+2076,A446,PU,Roundabout
+2077,A466,PR,Roundabout
+2078,A5035,PU,One way street
+2079,A450,PR,Roundabout
+2080,A5,PU,Unknown
+2081,A453,PR,Unknown
+2082,A4150,PU,Roundabout
+2083,A4440,PR,Unknown
+2084,A529,PU,Roundabout
+2085,A5271,PU,Dual carriageway
+2086,A449,PR,One way street
+2087,A522,PR,Slip road
+2088,A53,PU,Unknown
+2089,A456,TR,Slip road
+2090,A518,PU,Unknown
+2091,A5159,PR,Roundabout
+2092,M6(T),TM,Unknown
+2093,A4640,PR,Single carriageway
+2094,A4640,PU,Single carriageway
+2095,A4640,PR,Dual carriageway
+2096,A444,PU,Unknown
+2097,A4113,PR,Unknown
+2098,A4037,PU,Roundabout
+2099,A461,PU,Unknown
+2100,M50,TM,Unknown
+2101,A38,PR,One way street
+2102,A442,PU,One way street
+2103,A5064,PU,Dual carriageway
+2104,A4184,PU,Dual carriageway
+2105,A426,PR,Roundabout
+2106,A446,PR,Dual carriageway
+2107,A5013,PU,Roundabout
+2108,A4029,PU,Slip road
+2109,A525,PU,Roundabout
+2110,A5192,PU,Roundabout
+2111,A38,TR,Slip road
+2112,A511,PU,Slip road
+2113,A5011,PU,Roundabout
+2114,M45,TM,One way street
+2115,A3400,PR,Slip road
+2116,A45,PR,One way street
+2117,A4071,PR,Unknown
+2118,A511,PR,Dual carriageway
+2119,A5121,PR,Dual carriageway
+2120,A4097,PR,One way street
+2121,A460,PU,One way street
+2122,A5206,PR,Dual carriageway
+2123,A5192,PR,Dual carriageway
+2124,A422,PR,Unknown
+2125,A4091,PU,One way street
+2126,A5159,PR,Dual carriageway
+2127,A4640,PU,Dual carriageway
+2128,A49,TU,One way street
+2129,A483,TR,Slip road
+2130,A5010,PU,Roundabout
+2131,A4148,PU,One way street
+2132,A4141,PR,Slip road
+2133,A451,PR,Unknown
+2134,A529,PR,Roundabout
+2135,A522,PU,One way street
+2136,A5,PU,Roundabout
+2137,A452,PR,One way street
+2138,A523,PR,Roundabout
+2139,A4252,PU,Roundabout
+2140,A445,PU,Slip road
+2141,A511,PU,Roundabout
+2142,A5009,PU,One way street
+2143,A4390,PR,Roundabout
+2144,A38,TM,Roundabout
+2145,A426,PR,One way street
+2146,A5013,PR,Roundabout
+2147,A435,PR,Roundabout
+2148,A465,PU,Slip road
+2149,A5206,PU,Roundabout
+2150,A38M,PM,Roundabout
+2151,A435,PU,Roundabout
+2152,A4117,PR,Slip road
+2153,A38M,PM,Single carriageway
+2154,A483,TR,Roundabout
+2155,A4112,PR,Slip road
+2156,A4600,PR,One way street
+2157,A4444,PU,Roundabout
+2158,A521,PU,Slip road
+2159,A519,PR,Slip road
+2160,A4189,PU,Slip road
+2161,A40,TR,Slip road
+2162,A4141,PU,Dual carriageway
+2163,A456,PU,Slip road
+2164,A458,PR,Slip road
+2165,A460,PU,Slip road
+2166,A462,PR,Slip road
+2167,A4031,PU,Slip road
+2168,A4133,PR,Slip road
+2169,A435,PR,Slip road
+2170,A5006,PU,Slip road
+2171,A50,TR,Slip road
+2172,A44,PU,Slip road
+2173,A4390,PR,Slip road
+2174,A38M,PM,Dual carriageway
+2175,A5124,PR,Roundabout
+2176,A5195,PR,Dual carriageway
+2177,A5191,PU,Slip road
+2178,A515,PR,One way street
+2179,A465,PU,Dual carriageway
+2180,A4137,PR,Dual carriageway
+2181,A4026,PU,Roundabout
+2182,A446,PU,Dual carriageway
+2183,A457,PU,Slip road
+2184,A4097,PU,Roundabout
+2185,A500,TU,Slip road
+2186,A50,TU,Slip road
+2187,A438,PU,Slip road
+2188,A5064,PR,Roundabout
+2189,M6Toll,TM,Roundabout
+2190,M6Toll,TM,Dual carriageway
+2191,M6Toll,TM,Single carriageway
+2192,M6Toll,TM,Slip road
+2193,M6Toll,TM,One way street
+2194,A461,PR,One way street
+2195,A4189,PR,Roundabout
+2196,A4137,PR,One way street
+2197,A464,PR,One way street
+2198,A500,TR,One way street
+2199,A4102,PU,Roundabout
+2200,A425,PR,One way street
+2201,A519,PU,Dual carriageway
+2202,A4536,PR,Roundabout
+2203,A5190,PU,One way street
+2204,A513,PR,One way street
+2205,A4101,PR,Roundabout
+2206,A443,PR,Roundabout
+2207,A452,TR,Dual carriageway
+2208,A4110,PU,One way street
+2209,A5007,PU,One way street
+2210,A45,PR,Slip road
+2211,A429,PU,Slip road
+2212,A449,PU,Slip road
+2213,A448,PU,Slip road
+2214,A5013,PU,Slip road
+2215,A5148,PR,Roundabout
+2216,A4110,PR,Roundabout
+2217,A38M,PM,One way street
+2218,A4169,PR,Slip road
+2219,A4444,PU,Unknown
+2220,A488,PR,Slip road
+2221,A443,PU,Unknown
+2222,A5010,PU,One way street
+2223,A423,PR,Unknown
+2224,A38,PR,Unknown
+2225,A422,PR,Slip road
+2226,A523,PR,Unknown
+2227,A52,PR,Slip road
+2228,A4535,PU,Slip road
+2229,A4026,PU,Dual carriageway
+2230,A4025,PR,Roundabout
+2231,A5127,PR,Slip road
+2232,A5195,PR,One way street
+2233,A448,PR,Unknown
+2234,A448,PU,One way street
+2235,A461,PR,Unknown
+2236,A4400,PU,Slip road
+2237,A4400,PU,Unknown
+2238,M54,TR,Roundabout
+2239,M54,TR,Single carriageway
+2240,A4510,PR,Single carriageway
+2241,A4510,PR,One way street
+2242,A5148,TR,Single carriageway
+2243,A40,PR,Single carriageway
+2244,A40,PR,Roundabout
+2245,M4,TM,Roundabout
+2246,M4,TM,Single carriageway
+2247,A48,PR,Single carriageway
+2248,A48,PU,Single carriageway
+2249,A55,TR,Single carriageway
+2250,A55,TR,Roundabout
+2251,A470,TR,Single carriageway
+2252,A470,TR,Dual carriageway
+2253,A477,TR,Single carriageway
+2254,A487,TR,Roundabout
+2255,A487,TR,Single carriageway
+2256,A487,TU,Single carriageway
+2257,A489,TR,Single carriageway
+2258,A494,TR,Single carriageway
+2259,A494,TR,Unknown
+2260,A494,TU,Single carriageway
+2261,A4051,PU,Single carriageway
+2262,A467,PR,Dual carriageway
+2263,A472,PU,Roundabout
+2264,A473,PR,Single carriageway
+2265,A475,PR,Single carriageway
+2266,A476,PU,Single carriageway
+2267,A478,PR,Dual carriageway
+2268,A478,PR,Single carriageway
+2269,A482,PR,Slip road
+2270,A484,PR,Single carriageway
+2271,A484,PU,Dual carriageway
+2272,A485,PR,Single carriageway
+2273,A486,PR,Single carriageway
+2274,A493,PR,Dual carriageway
+2275,A496,PR,Single carriageway
+2276,A497,PR,Single carriageway
+2277,A499,PR,Roundabout
+2278,A539,PU,Single carriageway
+2279,A541,PR,Slip road
+2280,A542,PR,Single carriageway
+2281,A547,PU,Slip road
+2282,A548,PU,Single carriageway
+2283,A548,PU,Dual carriageway
+2284,A548,PR,Roundabout
+2285,A4046,PU,Single carriageway
+2286,A4048,PU,Single carriageway
+2287,A4058,PR,Roundabout
+2288,A4059,PR,Roundabout
+2289,A4061,PR,Single carriageway
+2290,A4061,PU,Single carriageway
+2291,A4063,PU,Single carriageway
+2292,A4068,PR,Single carriageway
+2293,A4069,PR,Single carriageway
+2294,A4080,PR,Single carriageway
+2295,A4085,PR,Dual carriageway
+2296,A4086,PR,Dual carriageway
+2297,A4106,PR,Single carriageway
+2298,A4119,PU,Single carriageway
+2299,A4120,PU,Roundabout
+2300,A4139,PR,Dual carriageway
+2301,A4139,PR,Single carriageway
+2302,A4160,PU,Dual carriageway
+2303,A4212,PR,Roundabout
+2304,A4222,PR,Roundabout
+2305,A4229,PR,Roundabout
+2306,A4230,PU,Single carriageway
+2307,A5025,PR,Roundabout
+2308,A5104,PR,Roundabout
+2309,A5152,PU,Dual carriageway
+2310,A48,PU,Dual carriageway
+2311,A4042,PU,Dual carriageway
+2312,A4087,PR,Single carriageway
+2313,A547,PU,Single carriageway
+2314,M4,TM,Dual carriageway
+2315,A44,TR,Single carriageway
+2316,A48,PU,One way street
+2317,A547,PR,Single carriageway
+2318,A465,TR,Slip road
+2319,A4054,PR,Single carriageway
+2320,A470,TU,Single carriageway
+2321,A470,PU,Single carriageway
+2322,A479,TR,Single carriageway
+2323,A483,PR,Single carriageway
+2324,A487,TR,One way street
+2325,A5119,PU,Single carriageway
+2326,A4042,TR,Single carriageway
+2327,A467,PR,Roundabout
+2328,A467,PR,Single carriageway
+2329,A468,PR,Single carriageway
+2330,A469,PU,Single carriageway
+2331,A472,PR,Single carriageway
+2332,A473,PU,Single carriageway
+2333,A481,PR,Dual carriageway
+2334,A482,PR,Single carriageway
+2335,A493,PR,Single carriageway
+2336,A498,PR,Single carriageway
+2337,A539,PR,Single carriageway
+2338,A539,PR,Roundabout
+2339,A541,PR,Single carriageway
+2340,A548,PR,Single carriageway
+2341,A549,PR,Single carriageway
+2342,A550,PR,Single carriageway
+2343,A4047,PU,Single carriageway
+2344,A4048,PR,Single carriageway
+2345,A4054,PU,Single carriageway
+2346,A4055,PR,Single carriageway
+2347,A4223,PU,Single carriageway
+2348,A4066,PR,Single carriageway
+2349,A4067,PR,Single carriageway
+2350,A4075,PR,Single carriageway
+2351,A4076,TU,Roundabout
+2352,A4081,PR,Roundabout
+2353,A4085,PR,Single carriageway
+2354,A4086,PR,Single carriageway
+2355,A4093,PR,Single carriageway
+2356,A4118,PR,Single carriageway
+2357,A4119,PR,Single carriageway
+2358,A4136,PR,Single carriageway
+2359,A4160,PU,Single carriageway
+2360,A4161,PU,Single carriageway
+2361,A4058,PU,Single carriageway
+2362,A4226,PR,Single carriageway
+2363,A5025,PR,Single carriageway
+2364,A5026,PU,Single carriageway
+2365,A5104,PR,Single carriageway
+2366,A5119,PR,Single carriageway
+2367,A5152,PU,Single carriageway
+2368,A4042,TR,Dual carriageway
+2369,A4138,PR,Single carriageway
+2370,A48,TM,Single carriageway
+2371,A40,TU,Single carriageway
+2372,A48,TR,Single carriageway
+2373,A477,PR,Single carriageway
+2374,A487,PR,Single carriageway
+2375,A489,TU,Single carriageway
+2376,A474,PU,Single carriageway
+2377,A4218,PR,Single carriageway
+2378,A484,PU,Single carriageway
+2379,A499,PR,Single carriageway
+2380,A534,PU,Single carriageway
+2381,A543,PR,Single carriageway
+2382,A544,PR,Single carriageway
+2383,A5104,PU,Single carriageway
+2384,A541,PU,Single carriageway
+2385,A4043,PR,Single carriageway
+2386,A4050,PU,Single carriageway
+2387,A4064,PR,Single carriageway
+2388,A4065,PU,Single carriageway
+2389,A4078,PR,Single carriageway
+2390,A4107,PR,Single carriageway
+2391,A4109,PR,Single carriageway
+2392,A4120,PR,Single carriageway
+2393,A4159,PR,Single carriageway
+2394,A4216,PU,Single carriageway
+2395,A4222,PR,Single carriageway
+2396,A5114,PR,Single carriageway
+2397,A5118,PR,Single carriageway
+2398,A4042,TU,Single carriageway
+2399,A4242,PU,Single carriageway
+2400,A483,PU,Single carriageway
+2401,A483,TU,Single carriageway
+2402,A4060,TR,Single carriageway
+2403,A474,PR,Single carriageway
+2404,A476,PR,Single carriageway
+2405,A481,PR,Single carriageway
+2406,A546,PU,Single carriageway
+2407,A550,TU,Single carriageway
+2408,A4046,PR,Single carriageway
+2409,A4059,PR,Single carriageway
+2410,A4076,TR,Single carriageway
+2411,A4077,PR,Single carriageway
+2412,A4081,PR,Dual carriageway
+2413,A4106,PU,Single carriageway
+2414,A4107,PU,Single carriageway
+2415,A4118,PU,Single carriageway
+2416,A4212,PR,Single carriageway
+2417,A4229,PR,Single carriageway
+2418,A5151,PR,Single carriageway
+2419,A494,TR,Roundabout
+2420,A4042,PU,Single carriageway
+2421,A455,PU,Single carriageway
+2422,A485,PR,Dual carriageway
+2423,A541,PR,Dual carriageway
+2424,A545,PU,Roundabout
+2425,A4051,PR,Single carriageway
+2426,A4055,PU,Single carriageway
+2427,A4067,PU,One way street
+2428,A4079,PR,Single carriageway
+2429,A4081,PR,Single carriageway
+2430,A4115,PR,Single carriageway
+2431,A4219,PR,Single carriageway
+2432,A4232,PR,Single carriageway
+2433,A48,TU,Single carriageway
+2434,A44,TU,Single carriageway
+2435,A48,PR,Roundabout
+2436,A4076,TU,Single carriageway
+2437,A4240,PR,Single carriageway
+2438,A4072,PR,Single carriageway
+2439,A4055,PU,Dual carriageway
+2440,A469,PU,Roundabout
+2441,A4049,PU,Dual carriageway
+2442,A4067,PU,Single carriageway
+2443,A474,PR,Dual carriageway
+2444,A4221,PR,Single carriageway
+2445,A483,PU,Roundabout
+2446,A4217,PU,Dual carriageway
+2447,A550,TR,Single carriageway
+2448,A545,PR,Single carriageway
+2449,A550,PU,Single carriageway
+2450,A4119,PU,Dual carriageway
+2451,A5108,PR,Dual carriageway
+2452,A4215,PR,Single carriageway
+2453,A5025,PR,Dual carriageway
+2454,A5151,PR,Dual carriageway
+2455,A4241,PU,Single carriageway
+2456,A4161,PU,Roundabout
+2457,A4232,PU,Single carriageway
+2458,A486,PR,Dual carriageway
+2459,A4243,PR,Single carriageway
+2460,A4225,PU,Single carriageway
+2461,A4233,PU,Roundabout
+2462,A469,PR,Single carriageway
+2463,A546,PR,Single carriageway
+2464,A546,PU,Roundabout
+2465,A468,PU,Single carriageway
+2466,A4048,PR,Roundabout
+2467,A4063,PR,Single carriageway
+2468,A467,PU,Single carriageway
+2469,A4054,PR,Dual carriageway
+2470,A4119,PR,Roundabout
+2471,A475,PR,Dual carriageway
+2472,A55,TR,Dual carriageway
+2473,A543,PR,Dual carriageway
+2474,M48,TM,Single carriageway
+2475,A4054,PR,Roundabout
+2476,A470,TR,Roundabout
+2477,A483,PU,Slip road
+2478,A4222,PU,Single carriageway
+2479,A4232,PR,Dual carriageway
+2480,A4232,PR,Roundabout
+2481,A4139,PR,Slip road
+2482,A487,PR,Dual carriageway
+2483,A4050,PR,Single carriageway
+2484,A4087,PU,Single carriageway
+2485,A545,PU,Single carriageway
+2486,A4226,PU,Single carriageway
+2487,A472,PU,Single carriageway
+2488,A467,PU,Dual carriageway
+2489,A4049,PU,Single carriageway
+2490,A4242,PR,Single carriageway
+2491,A470,PR,One way street
+2492,A5119,PU,Dual carriageway
+2493,A549,PU,Single carriageway
+2494,A4043,PU,Single carriageway
+2495,A4048,PU,Dual carriageway
+2496,A4138,PU,Dual carriageway
+2497,A476,PR,Slip road
+2498,A4054,PU,Dual carriageway
+2499,A4059,PU,Single carriageway
+2500,A4233,PU,Dual carriageway
+2501,A489,PU,Single carriageway
+2502,A455,PR,Single carriageway
+2503,A473,PU,Roundabout
+2504,A4230,PR,Dual carriageway
+2505,A474,PU,Dual carriageway
+2506,A4233,PR,Dual carriageway
+2507,A4061,PU,Slip road
+2508,A4061,PR,Dual carriageway
+2509,A4233,PR,Slip road
+2510,A5152,PR,Roundabout
+2511,A5156,PU,Single carriageway
+2512,A4240,PU,One way street
+2513,A48,PR,Dual carriageway
+2514,A473,PU,Dual carriageway
+2515,A4233,PU,Single carriageway
+2516,A490,PR,One way street
+2517,A534,PR,Single carriageway
+2518,A4102,PR,Single carriageway
+2519,A472,PR,Slip road
+2520,A4049,PR,Single carriageway
+2521,A469,PU,Dual carriageway
+2522,A548,PU,Roundabout
+2523,A487,PU,Dual carriageway
+2524,A487,PU,Single carriageway
+2525,A487,TU,Dual carriageway
+2526,A487,TR,Dual carriageway
+2527,A543,PR,Roundabout
+2528,A4217,PU,Single carriageway
+2529,A4214,PU,Single carriageway
+2530,A470,PR,Single carriageway
+2531,A5026,PR,Single carriageway
+2532,A5026,PU,Roundabout
+2533,A4143,PU,Dual carriageway
+2534,A4234,PU,Single carriageway
+2535,A4231,PR,Single carriageway
+2536,A4051,PU,Dual carriageway
+2537,A496,PR,Roundabout
+2538,A539,PU,Dual carriageway
+2539,A4068,PR,Roundabout
+2540,A4120,PU,Single carriageway
+2541,A4160,PU,Roundabout
+2542,A48,PR,One way street
+2543,A4042,PU,Roundabout
+2544,A4087,PR,Roundabout
+2545,A477,TR,Dual carriageway
+2546,A541,PR,Roundabout
+2547,A548,PR,Dual carriageway
+2548,A549,PR,Slip road
+2549,A4075,PR,Roundabout
+2550,A4076,TU,One way street
+2551,A4136,PR,Dual carriageway
+2552,A5025,PR,One way street
+2553,A4138,PR,Roundabout
+2554,M4,TM,One way street
+2555,A48,TR,Dual carriageway
+2556,A479,TR,Dual carriageway
+2557,A489,TU,Roundabout
+2558,A468,PR,One way street
+2559,A484,PR,Dual carriageway
+2560,A497,PR,Roundabout
+2561,A539,PR,Dual carriageway
+2562,A4061,PU,Dual carriageway
+2563,A4069,PR,Dual carriageway
+2564,A4107,PR,Dual carriageway
+2565,A4216,PU,Roundabout
+2566,A4230,PU,Dual carriageway
+2567,A5104,PR,Dual carriageway
+2568,A470,TR,One way street
+2569,A547,PR,Roundabout
+2570,A48,PU,Roundabout
+2571,A483,TU,Dual carriageway
+2572,A494,TR,Dual carriageway
+2573,A4060,TR,Dual carriageway
+2574,A472,PR,Roundabout
+2575,A473,PR,Dual carriageway
+2576,A482,PR,Dual carriageway
+2577,A496,PR,Dual carriageway
+2578,A4059,PR,Dual carriageway
+2579,A4138,PR,Dual carriageway
+2580,A4212,PR,Dual carriageway
+2581,A4222,PR,Dual carriageway
+2582,M4,TM,Slip road
+2583,A4109,PR,Roundabout
+2584,A477,TR,Roundabout
+2585,A550,PR,Dual carriageway
+2586,A4047,PU,Roundabout
+2587,A4051,PR,Dual carriageway
+2588,A4067,PR,Roundabout
+2589,A4080,PR,Roundabout
+2590,A4115,PR,Roundabout
+2591,A4120,PR,Dual carriageway
+2592,A44,TR,Roundabout
+2593,A44,TR,Dual carriageway
+2594,A4240,PR,Dual carriageway
+2595,A474,PR,Roundabout
+2596,A4067,PU,Dual carriageway
+2597,A476,PR,Dual carriageway
+2598,A4107,PU,Roundabout
+2599,A485,PR,Roundabout
+2600,A541,PU,Dual carriageway
+2601,A545,PR,Slip road
+2602,A550,PU,Slip road
+2603,A4047,PU,Dual carriageway
+2604,A550,PR,One way street
+2605,A5108,PR,Single carriageway
+2606,A4226,PR,Dual carriageway
+2607,A40,TU,Roundabout
+2608,A4243,PR,Roundabout
+2609,A4058,PU,Dual carriageway
+2610,A546,PR,Dual carriageway
+2611,A458,TR,One way street
+2612,A472,PR,Dual carriageway
+2613,A465,TR,One way street
+2614,A48,TM,Dual carriageway
+2615,A4068,PR,Dual carriageway
+2616,A475,PR,Roundabout
+2617,A478,PR,Slip road
+2618,A478,PR,Roundabout
+2619,A547,PR,Dual carriageway
+2620,A548,PR,Slip road
+2621,M48,TM,Roundabout
+2622,A4042,TR,Slip road
+2623,A4232,PU,Roundabout
+2624,A470,PU,Roundabout
+2625,A55,TR,Slip road
+2626,A5154,PU,Dual carriageway
+2627,A5152,PR,Single carriageway
+2628,A4064,PR,Roundabout
+2629,A474,PU,Roundabout
+2630,A4226,PU,Roundabout
+2631,A473,PR,Roundabout
+2632,A4232,PU,Dual carriageway
+2633,A55,TU,Roundabout
+2634,A5,PU,One way street
+2635,A5119,PR,Dual carriageway
+2636,A541,PR,One way street
+2637,A4048,PU,One way street
+2638,A4059,PU,Dual carriageway
+2639,A4059,PU,Roundabout
+2640,A4106,PU,Roundabout
+2641,A468,PU,Roundabout
+2642,A4230,PR,Single carriageway
+2643,A4233,PR,Single carriageway
+2644,A473,PR,One way street
+2645,A4240,PU,Single carriageway
+2646,A4119,PR,Slip road
+2647,A5152,PU,Roundabout
+2648,A4063,PU,Dual carriageway
+2649,A4061,PU,Roundabout
+2650,A4054,PU,Roundabout
+2651,A4049,PR,Roundabout
+2652,A547,PU,Roundabout
+2653,A487,TR,Slip road
+2654,A4217,PU,Roundabout
+2655,A4234,PU,Slip road
+2656,A470,TR,Slip road
+2657,A476,PU,Dual carriageway
+2658,A497,PR,Dual carriageway
+2659,A4046,PU,Dual carriageway
+2660,A4058,PR,One way street
+2661,A4063,PU,Roundabout
+2662,A4230,PU,One way street
+2663,A479,TR,Roundabout
+2664,A4055,PR,Roundabout
+2665,A4061,PR,One way street
+2666,A4093,PR,Dual carriageway
+2667,A4136,PR,Slip road
+2668,A4161,PU,Dual carriageway
+2669,A4042,TR,Roundabout
+2670,A48,TR,Roundabout
+2671,A470,PU,Dual carriageway
+2672,A477,PR,Slip road
+2673,A489,TU,Slip road
+2674,A494,TR,One way street
+2675,A473,PU,Slip road
+2676,A486,PR,Slip road
+2677,A5104,PU,Slip road
+2678,A4050,PU,Dual carriageway
+2679,A4078,PR,Unknown
+2680,A4080,PR,Dual carriageway
+2681,A4109,PR,Dual carriageway
+2682,A4216,PU,Dual carriageway
+2683,A5118,PR,Dual carriageway
+2684,A483,PU,Dual carriageway
+2685,A483,TU,Slip road
+2686,A494,TR,Slip road
+2687,A494,TU,Dual carriageway
+2688,A499,PR,Dual carriageway
+2689,A542,PR,Dual carriageway
+2690,A546,PU,Dual carriageway
+2691,A4046,PR,Dual carriageway
+2692,A4048,PR,Dual carriageway
+2693,A4067,PR,Slip road
+2694,A4067,PR,Dual carriageway
+2695,A4075,PR,Dual carriageway
+2696,A4076,TR,Dual carriageway
+2697,A4077,PR,Dual carriageway
+2698,A4106,PU,Dual carriageway
+2699,A4107,PU,Slip road
+2700,A4118,PU,Dual carriageway
+2701,A4229,PR,Dual carriageway
+2702,A5104,PU,Dual carriageway
+2703,A5152,PU,Slip road
+2704,A4066,PR,Dual carriageway
+2705,A40,TU,Dual carriageway
+2706,A486,PR,Roundabout
+2707,A4065,PU,Slip road
+2708,A4079,PR,Roundabout
+2709,A4219,PR,Dual carriageway
+2710,A44,TU,Dual carriageway
+2711,A483,PR,Roundabout
+2712,A4107,PU,Dual carriageway
+2713,A550,PR,Roundabout
+2714,A4215,PR,Roundabout
+2715,A4225,PU,Dual carriageway
+2716,A484,PR,Roundabout
+2717,A5151,PR,Roundabout
+2718,A4222,PU,Dual carriageway
+2719,A5154,PU,Single carriageway
+2720,A4050,PR,Dual carriageway
+2721,A469,PR,Roundabout
+2722,A468,PR,Roundabout
+2723,A4055,PU,Roundabout
+2724,A55,TU,Dual carriageway
+2725,A4138,PU,Single carriageway
+2726,A4230,PR,Roundabout
+2727,A4240,PU,Roundabout
+2728,A468,PR,Slip road
+2729,A4060,TR,Roundabout
+2730,A4049,PU,Roundabout
+2731,A5119,PU,Roundabout
+2732,A5026,PU,Dual carriageway
+2733,A4143,PU,Single carriageway
+2734,A4231,PR,Roundabout
+2735,A48,PR,Slip road
+2736,A497,PR,Slip road
+2737,A4058,PR,Dual carriageway
+2738,A4086,PR,Roundabout
+2739,A476,PU,Roundabout
+2740,A4066,PR,Roundabout
+2741,A4069,PR,Roundabout
+2742,A4093,PR,Roundabout
+2743,A4118,PR,Roundabout
+2744,A487,PR,Roundabout
+2745,A534,PU,Roundabout
+2746,A544,PR,Dual carriageway
+2747,A541,PU,Roundabout
+2748,A4043,PR,Roundabout
+2749,A4046,PU,Roundabout
+2750,A4159,PR,Roundabout
+2751,A487,TU,Roundabout
+2752,A4139,PR,One way street
+2753,A4081,PR,One way street
+2754,A469,PU,One way street
+2755,A4119,PR,Dual carriageway
+2756,A4219,PR,One way street
+2757,A55,TR,One way street
+2758,A4067,PU,Roundabout
+2759,A476,PR,Roundabout
+2760,A550,TR,Dual carriageway
+2761,A4119,PU,One way street
+2762,A4241,PU,Roundabout
+2763,A4077,PR,Roundabout
+2764,A474,PR,Slip road
+2765,A472,PR,One way street
+2766,A4221,PR,Roundabout
+2767,A4222,PU,Roundabout
+2768,A470,PU,Slip road
+2769,A4080,PR,One way street
+2770,A4139,PR,Roundabout
+2771,A539,PR,One way street
+2772,A472,PU,One way street
+2773,A4242,PR,Roundabout
+2774,A4050,PU,Roundabout
+2775,A4240,PR,Roundabout
+2776,A55,TU,Single carriageway
+2777,A4043,PU,Dual carriageway
+2778,A4107,PR,Roundabout
+2779,A4119,PR,One way street
+2780,A470,TU,One way street
+2781,A472,PU,Slip road
+2782,A4102,PR,Dual carriageway
+2783,A4049,PU,One way street
+2784,A5119,PR,Roundabout
+2785,A4143,PU,Roundabout
+2786,A4050,PU,One way street
+2787,A466,PR,One way street
+2788,A4058,PR,Single carriageway
+2789,A4106,PR,Roundabout
+2790,A4229,PR,One way street
+2791,A4042,TR,One way street
+2792,A481,PR,One way street
+2793,A547,PU,Dual carriageway
+2794,A548,PR,One way street
+2795,A4048,PR,Slip road
+2796,A5104,PR,One way street
+2797,A477,PR,Roundabout
+2798,A489,TU,One way street
+2799,A4218,PR,One way street
+2800,A544,PR,Roundabout
+2801,A4230,PU,Roundabout
+2802,A494,TU,Roundabout
+2803,A4065,PU,Roundabout
+2804,A4120,PR,Roundabout
+2805,A48,TU,Roundabout
+2806,A4087,PR,Dual carriageway
+2807,A468,PU,Dual carriageway
+2808,A486,PR,One way street
+2809,A4051,PU,Roundabout
+2810,A4064,PR,Slip road
+2811,A4050,PR,Roundabout
+2812,A483,TU,Roundabout
+2813,A472,PU,Dual carriageway
+2814,A470,PR,Dual carriageway
+2815,A549,PU,Roundabout
+2816,A489,PU,Dual carriageway
+2817,A5156,PU,Dual carriageway
+2818,A470,TU,Roundabout
+2819,A4102,PR,Roundabout
+2820,A465,TU,Roundabout
+2821,A4049,PR,Dual carriageway
+2822,A469,PR,Dual carriageway
+2823,A547,PR,Slip road
+2824,A548,PU,Slip road
+2825,A4232,PR,Slip road
+2826,A470,PR,Roundabout
+2827,A5026,PR,Roundabout
+2828,A493,PR,Unknown
+2829,A4069,PR,Unknown
+2830,A4085,PR,Roundabout
+2831,A4058,PU,Roundabout
+2832,A4226,PR,Roundabout
+2833,A475,PR,Unknown
+2834,A4107,PR,Unknown
+2835,A4160,PU,One way street
+2836,A499,PR,One way street
+2837,A5152,PR,Slip road
+2838,A4054,PU,Slip road
+2839,A5026,PU,Slip road
+2840,A4244,PR,Single carriageway
+2841,A4063,PU,Unknown
+2842,A4063,PU,One way street
+2843,A5026,PR,Dual carriageway
+2844,A4055,PU,Unknown
+2845,A4231,PR,One way street
+2846,A4061,PR,Roundabout
+2847,A485,PR,One way street
+2848,A48,TM,Roundabout
+2849,A48,PR,Unknown
+2850,A48,PU,Unknown
+2851,A467,PR,One way street
+2852,A498,PR,One way street
+2853,A534,PU,Dual carriageway
+2854,A4043,PR,Dual carriageway
+2855,A4050,PU,Slip road
+2856,A4065,PU,One way street
+2857,A4069,PR,One way street
+2858,A4242,PU,Dual carriageway
+2859,A4222,PR,One way street
+2860,A484,PU,One way street
+2861,A487,PR,Slip road
+2862,A550,PR,Unknown
+2863,A44,TR,One way street
+2864,A48,TU,Dual carriageway
+2865,A4221,PR,Dual carriageway
+2866,A5108,PR,Roundabout
+2867,A467,PU,Roundabout
+2868,A5151,PR,Unknown
+2869,A543,PR,Slip road
+2870,A5152,PR,Dual carriageway
+2871,A483,PR,Dual carriageway
+2872,A545,PU,Dual carriageway
+2873,A4226,PU,Dual carriageway
+2874,A547,PR,One way street
+2875,A546,PR,Roundabout
+2876,A4244,PR,Roundabout
+2877,A487,PU,Roundabout
+2878,A487,PU,One way street
+2879,A534,PR,Dual carriageway
+2880,A469,PU,Slip road
+2881,A469,PR,One way street
+2882,A4042,TR,Unknown
+2883,A487,TU,Unknown
+2884,A4234,PU,Dual carriageway
+2885,A5,PU,Slip road
+2886,A468,PR,Dual carriageway
+2887,A4118,PR,Dual carriageway
+2888,A477,PR,Dual carriageway
+2889,A4064,PR,Dual carriageway
+2890,A4159,PR,One way street
+2891,A4042,TU,Roundabout
+2892,A4242,PU,Roundabout
+2893,A4119,PU,Slip road
+2894,A4119,PU,Roundabout
+2895,A498,PR,Dual carriageway
+2896,A4065,PU,Dual carriageway
+2897,A4079,PR,Dual carriageway
+2898,A4115,PR,Dual carriageway
+2899,A48,TU,Slip road
+2900,A4072,PR,Dual carriageway
+2901,A485,PR,Slip road
+2902,A5154,PU,One way street
+2903,A469,PR,Slip road
+2904,A4059,PU,One way street
+2905,A489,TR,One way street
+2906,A474,PU,One way street
+2907,A4240,PU,Dual carriageway
+2908,A470,PU,One way street
+2909,A534,PR,Roundabout
+2910,A470,TU,Dual carriageway
+2911,A5025,PR,Slip road
+2912,A4160,PU,Slip road
+2913,A5114,PR,Roundabout
+2914,A483,TU,One way street
+2915,A499,PR,Slip road
+2916,A548,PU,One way street
+2917,A4138,PR,One way street
+2918,A5104,PU,Roundabout
+2919,A4055,PU,One way street
+2920,A48,PU,Slip road
+2921,A474,PU,Slip road
+2922,A525,PR,Slip road
+2923,A4221,PR,One way street
+2924,A545,PR,Dual carriageway
+2925,A4243,PR,Dual carriageway
+2926,A4054,PR,One way street
+2927,A474,PR,One way street
+2928,A483,PU,One way street
+2929,A4086,PR,One way street
+2930,A4087,PU,Dual carriageway
+2931,A4226,PU,One way street
+2932,A4054,PR,Slip road
+2933,A4138,PU,Roundabout
+2934,A4063,PR,Dual carriageway
+2935,A525,PU,Slip road
+2936,A4054,PU,One way street
+2937,A4214,PU,One way street
+2938,A5151,PR,One way street
+2939,A477,TR,One way street
+2940,A4120,PU,Dual carriageway
+2941,A458,TR,Slip road
+2942,A493,PR,One way street
+2943,A475,PR,One way street
+2944,A4086,PR,Slip road
+2945,A4064,PR,One way street
+2946,A489,TR,Slip road
+2947,A473,PU,One way street
+2948,A4058,PU,One way street
+2949,A5026,PR,One way street
+2950,A478,PR,One way street
+2951,A484,PR,One way street
+2952,A493,PR,Roundabout
+2953,A539,PU,Roundabout
+2954,A542,PR,Roundabout
+2955,A482,PR,Roundabout
+2956,A4048,PR,One way street
+2957,A4055,PR,Dual carriageway
+2958,A4067,PR,One way street
+2959,A4118,PR,One way street
+2960,A4161,PU,One way street
+2961,A487,PR,One way street
+2962,A489,TU,Dual carriageway
+2963,A484,PU,Roundabout
+2964,A544,PR,One way street
+2965,A4078,PR,One way street
+2966,A496,PR,One way street
+2967,A4047,PU,One way street
+2968,A4059,PR,One way street
+2969,A5152,PU,One way street
+2970,A4063,PR,Roundabout
+2971,A40,TR,Unknown
+2972,A5152,PR,Unknown
+2973,A4233,PR,Roundabout
+2974,A4244,PR,Dual carriageway
+2975,A5156,PU,Roundabout
+2976,A4048,PU,Roundabout
+2977,A4055,PR,One way street
+2978,A4223,PU,Roundabout
+2979,A4102,PU,One way street
+2980,A4107,PR,One way street
+2981,A4242,PU,Slip road
+2982,A4161,PU,Slip road
+2983,A4066,PR,Slip road
+2984,A496,PR,Slip road
+2985,A550,PR,Slip road
+2986,A4061,PR,Slip road
+2987,A4075,PR,One way street
+2988,A4109,PR,Slip road
+2989,A479,TR,One way street
+2990,A4076,TU,Dual carriageway
+2991,A550,PU,Dual carriageway
+2992,A4243,PR,Slip road
+2993,A4222,PU,Slip road
+2994,A5,PR,Slip road
+2995,A44,TR,Slip road
+2996,A4242,PR,Dual carriageway
+2997,A470,PR,Slip road
+2998,A4232,PU,Slip road
+2999,A549,PU,Dual carriageway
+3000,A4051,PU,Slip road
+3001,A4043,PU,Slip road
+3002,A489,TR,Dual carriageway
+3003,A4230,PR,Slip road
+3004,A487,PU,Slip road
+3005,M48,TM,Dual carriageway
+3006,A4233,PU,Slip road
+3007,A489,PR,Slip road
+3008,A4063,PU,Slip road
+3009,A487,TU,Slip road
+3010,A478,PR,Unknown
+3011,A539,PR,Unknown
+3012,A549,PR,Dual carriageway
+3013,A4223,PU,Dual carriageway
+3014,A4159,PR,Dual carriageway
+3015,A483,TR,Unknown
+3016,A541,PR,Unknown
+3017,A40,TU,Unknown
+3018,A4081,PR,Slip road
+3019,A479,TR,Unknown
+3020,A4067,PU,Slip road
+3021,A55,TR,Unknown
+3022,A4087,PR,Slip road
+3023,A467,PR,Slip road
+3024,A5151,PR,Slip road
+3025,A4055,PU,Slip road
+3026,A4232,PU,One way street
+3027,A4059,PU,Unknown
+3028,A4106,PU,One way street
+3029,A4106,PR,Dual carriageway
+3030,A4160,PU,Unknown
+3031,A5104,PR,Unknown
+3032,A40,TU,One way street
+3033,A4078,PR,Dual carriageway
+3034,A5114,PR,Dual carriageway
+3035,A4042,TU,Unknown
+3036,A474,PR,Unknown
+3037,A546,PU,One way street
+3038,A487,TR,Unknown
+3039,A543,PR,Unknown
+3040,A4221,PR,Unknown
+3041,A4087,PU,Unknown
+3042,A4138,PU,Unknown
+3043,A484,PR,Unknown
+3044,A4119,PU,Unknown
+3045,A4077,PR,Slip road
+3046,A4232,TR,Single carriageway
+3047,A466,TR,Single carriageway
+3048,A497,TR,Single carriageway
+3049,A4971,TR,Single carriageway
+3050,A4102,PR,One way street
+3051,A4214,PU,Roundabout
+3052,A4231,PR,Dual carriageway
+3053,A487,TU,One way street
+3054,A494,TU,One way street
+3055,A484,PU,Slip road
+3056,A493,PR,Slip road
+3057,A495,PR,Unknown
+3058,A4043,PR,One way street
+3059,A4050,PU,Unknown
+3060,A4058,PU,Unknown
+3061,A4080,PR,Slip road
+3062,A466,PR,Slip road
+3063,A546,PU,Slip road
+3064,A475,PR,Slip road
+3065,A4087,PU,Roundabout
+3066,A4043,PU,Roundabout
+3067,A489,PU,Slip road
+3068,A497,PR,One way street
+3069,A4971,PR,Single carriageway
+3070,A40,PU,Single carriageway
+3071,A40,PU,Dual carriageway
+3072,A4042,PR,Slip road
+3073,A4042,PR,Single carriageway
+3074,A4810,PR,Single carriageway
+3075,A4810,PR,Dual carriageway
+3076,A4054,PU,Unknown
+3077,A5119,PR,Slip road
+3078,A4214,PU,Dual carriageway
+3079,A4234,PU,Roundabout
+3080,A482,PR,One way street
+3081,A481,PR,Slip road
+3082,A4223,PU,One way street
+3083,A4046,PU,One way street
+3084,A4042,TU,Slip road
+3085,A481,PR,Roundabout
+3086,A4042,PU,Slip road
+3087,A4226,PR,Slip road
+3088,A546,PR,Slip road
+3089,A468,PU,Slip road
+3090,A486,PR,Unknown
+3091,A483,PR,Unknown
+3092,A4042,PU,One way street
+3093,A546,PR,Unknown
+3094,A466,TR,Dual carriageway
+3095,A4810,PR,Roundabout
+3096,A4241,PU,Dual carriageway
+3097,A4281,PU,Single carriageway
+3098,A4106,PR,One way street
+3099,A4281,PU,Roundabout
+3100,A48(M),TM,Single carriageway
+3101,A4218,PR,Slip road
+3102,A498,PR,Roundabout
+3103,A4138,PR,Slip road
+3104,A479,TR,Slip road
+3105,A4215,PR,Dual carriageway
+3106,A5,PR,One way street
+3107,A4242,PR,Slip road
+3108,A489,PU,Roundabout
+3109,A4058,PU,Slip road
+3110,A4042,PR,Roundabout
+3111,A5153,PU,Single carriageway
+3112,A4281,PR,Single carriageway
+3113,A5119,PU,Slip road
+3114,M8,TM,Single carriageway
+3115,M8,TM,Dual carriageway
+3116,M9,TM,Single carriageway
+3117,M90,TM,Single carriageway
+3118,M90,TM,Dual carriageway
+3119,A7,PU,Single carriageway
+3120,A8,TR,Single carriageway
+3121,A9,TR,Single carriageway
+3122,A68,TU,Single carriageway
+3123,A68,TR,Roundabout
+3124,A68,TR,Single carriageway
+3125,A73,PR,Dual carriageway
+3126,A73,PR,Single carriageway
+3127,A702,TR,Single carriageway
+3128,A75,TR,Single carriageway
+3129,A77,TR,Single carriageway
+3130,A78,TU,Dual carriageway
+3131,A82,TR,Single carriageway
+3132,A82,TR,Dual carriageway
+3133,A82,PU,Single carriageway
+3134,A83,TR,Single carriageway
+3135,A84,TR,Single carriageway
+3136,A85,TR,Single carriageway
+3137,A87,TR,Dual carriageway
+3138,A91,PR,Single carriageway
+3139,A90,TR,Single carriageway
+3140,A96,TR,Single carriageway
+3141,A96,TR,Roundabout
+3142,A98,PR,Single carriageway
+3143,A98,PR,Dual carriageway
+3144,A701,TR,Single carriageway
+3145,A816,PR,Single carriageway
+3146,A830,TU,Single carriageway
+3147,A90,TU,Single carriageway
+3148,A80,TR,Single carriageway
+3149,M73,TM,Dual carriageway
+3150,A1,PU,Dual carriageway
+3151,A770,PU,Roundabout
+3152,A8,PU,Single carriageway
+3153,A8,PU,Dual carriageway
+3154,A99,PR,Single carriageway
+3155,A9,PU,Single carriageway
+3156,A70,PU,Single carriageway
+3157,A70,PR,Single carriageway
+3158,A71,PR,Single carriageway
+3159,A735,PU,Single carriageway
+3160,A72,PR,Single carriageway
+3161,A77,PU,Single carriageway
+3162,A77,PR,Single carriageway
+3163,A80,PU,Single carriageway
+3164,A81,PR,Roundabout
+3165,A81,PU,Dual carriageway
+3166,A85,PR,Single carriageway
+3167,A89,PR,Single carriageway
+3168,A89,PU,Single carriageway
+3169,A89,PU,Dual carriageway
+3170,A90,PR,Single carriageway
+3171,A956,PU,Single carriageway
+3172,A9013,PU,Single carriageway
+3173,A92,PR,Single carriageway
+3174,A92,PU,Single carriageway
+3175,A92,TR,Single carriageway
+3176,A921,PU,Single carriageway
+3177,A921,PR,Roundabout
+3178,A93,PR,Dual carriageway
+3179,A93,PR,Single carriageway
+3180,A94,PR,Single carriageway
+3181,A93,PU,Single carriageway
+3182,A95,TR,Roundabout
+3183,A95,TR,Single carriageway
+3184,A97,PR,Single carriageway
+3185,A198,PR,Single carriageway
+3186,A698,PR,Dual carriageway
+3187,A701,PR,Single carriageway
+3188,A702,PR,Single carriageway
+3189,A703,PR,Single carriageway
+3190,A706,PR,Single carriageway
+3191,A707,PR,Roundabout
+3192,A710,PR,One way street
+3193,A711,PR,Single carriageway
+3194,A713,PR,Single carriageway
+3195,A714,PR,Single carriageway
+3196,A714,PR,Roundabout
+3197,A716,PR,Single carriageway
+3198,A718,PR,Single carriageway
+3199,A719,PR,Dual carriageway
+3200,A721,PR,Single carriageway
+3201,A723,PU,Roundabout
+3202,A724,PU,Single carriageway
+3203,A725,PU,Dual carriageway
+3204,A726,PR,Single carriageway
+3205,A726,PU,Roundabout
+3206,A730,PU,Single carriageway
+3207,A736,PU,Single carriageway
+3208,A761,PU,Single carriageway
+3209,A737,PU,Single carriageway
+3210,A739,PU,Single carriageway
+3211,A78,PU,Single carriageway
+3212,A749,PU,Single carriageway
+3213,A752,PR,Single carriageway
+3214,A759,PU,Single carriageway
+3215,A761,PR,Dual carriageway
+3216,A766,PR,Dual carriageway
+3217,A801,PR,Roundabout
+3218,A803,PR,Dual carriageway
+3219,A803,PU,Single carriageway
+3220,A804,PU,Single carriageway
+3221,A810,PU,Slip road
+3222,A811,PR,Single carriageway
+3223,A813,PU,One way street
+3224,A814,PU,Single carriageway
+3225,A815,PR,Single carriageway
+3226,A819,PR,Single carriageway
+3227,A821,PR,Single carriageway
+3228,A822,PR,Dual carriageway
+3229,A823,PR,Single carriageway
+3230,A826,PR,Single carriageway
+3231,A831,PR,Single carriageway
+3232,A832,PR,Dual carriageway
+3233,A832,PR,Roundabout
+3234,A836,PR,Single carriageway
+3235,A838,PR,Single carriageway
+3236,A844,PR,Slip road
+3237,A847,PR,Single carriageway
+3238,A849,PR,Dual carriageway
+3239,A851,PR,Single carriageway
+3240,A87,TR,Single carriageway
+3241,A858,PR,Single carriageway
+3242,A859,PR,Single carriageway
+3243,A861,PR,Single carriageway
+3244,A862,PR,Single carriageway
+3245,A863,PR,Roundabout
+3246,A865,PR,Single carriageway
+3247,A867,PR,Single carriageway
+3248,A872,PR,Single carriageway
+3249,A879,PU,Single carriageway
+3250,A884,PR,Single carriageway
+3251,A886,PR,Dual carriageway
+3252,A890,PR,Single carriageway
+3253,A894,PR,Single carriageway
+3254,A896,PR,Single carriageway
+3255,A899,PR,Dual carriageway
+3256,A901,PU,Single carriageway
+3257,A902,PU,Dual carriageway
+3258,A904,PU,Single carriageway
+3259,A905,PU,Dual carriageway
+3260,A907,PR,Single carriageway
+3261,A909,PR,Single carriageway
+3262,A911,PR,Single carriageway
+3263,A912,PR,One way street
+3264,A913,PR,Single carriageway
+3265,A915,PR,Single carriageway
+3266,A915,PU,Single carriageway
+3267,A917,PR,Single carriageway
+3268,A991,PU,Roundabout
+3269,A923,PR,Single carriageway
+3270,A926,PR,Single carriageway
+3271,A928,PR,Dual carriageway
+3272,A930,PU,Roundabout
+3273,A933,PR,Single carriageway
+3274,A937,PR,Single carriageway
+3275,A939,PR,Single carriageway
+3276,A939,PR,Dual carriageway
+3277,A941,PR,Single carriageway
+3278,A944,PR,Single carriageway
+3279,A947,PR,Single carriageway
+3280,A948,PR,Single carriageway
+3281,A950,PR,Slip road
+3282,A961,PR,Single carriageway
+3283,A965,PR,Single carriageway
+3284,A967,PR,Single carriageway
+3285,A970,PR,Dual carriageway
+3286,A970,PR,Single carriageway
+3287,A971,PR,Single carriageway
+3288,A975,PR,Single carriageway
+3289,A981,PR,Single carriageway
+3290,A1107,PR,Dual carriageway
+3291,A6089,PR,Single carriageway
+3292,A6093,PR,Single carriageway
+3293,A6094,PR,Single carriageway
+3294,A6105,PR,Roundabout
+3295,A6106,PR,Dual carriageway
+3296,A6112,PR,Single carriageway
+3297,A6137,PR,Single carriageway
+3298,A8000,PR,Single carriageway
+3299,A8014,PU,Single carriageway
+3300,A704,PR,Roundabout
+3301,A96,TR,Dual carriageway
+3302,M74,TM,Single carriageway
+3303,M90,TM,Roundabout
+3304,M898,TM,Single carriageway
+3305,A7,PR,Single carriageway
+3306,A7,TR,Dual carriageway
+3307,A8,TU,Single carriageway
+3308,A9,TR,Roundabout
+3309,A9,TR,Dual carriageway
+3310,A68,TR,One way street
+3311,A75,TR,Dual carriageway
+3312,A76,TR,Single carriageway
+3313,A78,TR,Single carriageway
+3314,A78,TU,Single carriageway
+3315,A78,TR,Roundabout
+3316,A80,TR,Dual carriageway
+3317,A83,TR,Slip road
+3318,A957,PR,Single carriageway
+3319,A92,TU,Single carriageway
+3320,A920,PR,Single carriageway
+3321,A702,TR,Dual carriageway
+3322,A835,TR,Roundabout
+3323,A92,TR,Roundabout
+3324,A90,TU,Roundabout
+3325,A823,PR,Dual carriageway
+3326,A985,TR,Single carriageway
+3327,M876,TM,Dual carriageway
+3328,A99,PR,Dual carriageway
+3329,A71,PR,Dual carriageway
+3330,A723,PU,Single carriageway
+3331,A72,PR,Roundabout
+3332,A74,PR,Dual carriageway
+3333,A77,TU,Single carriageway
+3334,A79,PU,Dual carriageway
+3335,A81,PR,Single carriageway
+3336,A85,TR,Roundabout
+3337,A86,TR,Single carriageway
+3338,A90,PU,Single carriageway
+3339,A92,PR,Dual carriageway
+3340,A914,PR,Single carriageway
+3341,A93,PR,Roundabout
+3342,A95,PR,Single carriageway
+3343,A97,PR,Dual carriageway
+3344,A97,PR,Roundabout
+3345,A198,PR,Dual carriageway
+3346,A697,PR,Single carriageway
+3347,A698,PR,Single carriageway
+3348,A705,PR,Dual carriageway
+3349,A708,PR,Single carriageway
+3350,A709,PR,Single carriageway
+3351,A712,PR,Single carriageway
+3352,A719,PR,Single carriageway
+3353,A721,PU,Roundabout
+3354,A721,PU,Single carriageway
+3355,A723,PU,Dual carriageway
+3356,A723,PR,Single carriageway
+3357,A725,TU,Dual carriageway
+3358,A726,PU,Single carriageway
+3359,A726,PU,Dual carriageway
+3360,A735,PR,Single carriageway
+3361,A736,PR,Single carriageway
+3362,A738,PU,Single carriageway
+3363,A741,PU,Single carriageway
+3364,A745,PR,Single carriageway
+3365,A747,PR,Single carriageway
+3366,A756,PU,Single carriageway
+3367,A760,PR,Single carriageway
+3368,A762,PR,Dual carriageway
+3369,A803,PR,Single carriageway
+3370,A809,PU,Single carriageway
+3371,A814,PR,Single carriageway
+3372,A814,PU,Dual carriageway
+3373,A820,PR,Single carriageway
+3374,A822,PR,Single carriageway
+3375,A823,PU,Single carriageway
+3376,A827,PR,Dual carriageway
+3377,A831,PR,Dual carriageway
+3378,A832,PR,Single carriageway
+3379,A833,PR,Single carriageway
+3380,A837,PR,Single carriageway
+3381,A838,PR,Dual carriageway
+3382,A841,PR,Roundabout
+3383,A844,PR,Single carriageway
+3384,A846,PR,Single carriageway
+3385,A850,PR,Single carriageway
+3386,A857,PR,Single carriageway
+3387,A861,PR,Dual carriageway
+3388,A862,PR,Roundabout
+3389,A863,PR,Dual carriageway
+3390,A865,PR,Dual carriageway
+3391,A873,PR,Single carriageway
+3392,A886,PR,Single carriageway
+3393,A891,PR,Single carriageway
+3394,A897,PR,Single carriageway
+3395,A899,PU,Roundabout
+3396,A903,PU,Single carriageway
+3397,A904,PR,Single carriageway
+3398,A904,PU,Slip road
+3399,A905,PR,Single carriageway
+3400,A907,PU,Single carriageway
+3401,A907,PR,Dual carriageway
+3402,A908,PR,Single carriageway
+3403,A912,PR,Roundabout
+3404,A916,PR,Single carriageway
+3405,A924,PR,Dual carriageway
+3406,A935,PR,Single carriageway
+3407,A938,PR,Single carriageway
+3408,A942,PR,Dual carriageway
+3409,A947,PU,Single carriageway
+3410,A949,PR,Single carriageway
+3411,A955,PU,Single carriageway
+3412,A960,PR,Single carriageway
+3413,A964,PR,Single carriageway
+3414,A968,PR,Single carriageway
+3415,A980,PR,Dual carriageway
+3416,A981,PR,Roundabout
+3417,A986,PR,Single carriageway
+3418,A993,PU,Single carriageway
+3419,A6088,PR,Single carriageway
+3420,A6105,PR,Single carriageway
+3421,A6124,PR,Single carriageway
+3422,A8011,PU,Single carriageway
+3423,A739,PU,Dual carriageway
+3424,A743,PR,Single carriageway
+3425,A877,PU,Dual carriageway
+3426,A991,PU,Single carriageway
+3427,M9,TM,Dual carriageway
+3428,M80,TM,Single carriageway
+3429,A7,TR,Single carriageway
+3430,A99,TR,Single carriageway
+3431,A68,TU,Dual carriageway
+3432,A75,TU,Single carriageway
+3433,A76,TR,Roundabout
+3434,A78,TR,Dual carriageway
+3435,A91,PR,Roundabout
+3436,A834,PR,Roundabout
+3437,A90,TR,Dual carriageway
+3438,A977,PR,Roundabout
+3439,A977,PR,Single carriageway
+3440,A985,TU,Single carriageway
+3441,A8,PR,Single carriageway
+3442,A8,PU,Roundabout
+3443,A924,PR,Single carriageway
+3444,A7,PU,Dual carriageway
+3445,A70,PR,Dual carriageway
+3446,A71,PU,Roundabout
+3447,A74,PU,Single carriageway
+3448,A780,PR,Single carriageway
+3449,A780,PU,Single carriageway
+3450,A81,PU,Single carriageway
+3451,A85,PU,Dual carriageway
+3452,A89,PR,Dual carriageway
+3453,A89,PR,Roundabout
+3454,A89,PU,Roundabout
+3455,A952,PR,Dual carriageway
+3456,A921,PR,Single carriageway
+3457,A94,PR,Dual carriageway
+3458,A938,PR,Dual carriageway
+3459,A96,PU,Single carriageway
+3460,A697,PR,Dual carriageway
+3461,A699,PR,Dual carriageway
+3462,A706,PU,Single carriageway
+3463,A707,PR,Slip road
+3464,A708,PR,Dual carriageway
+3465,A710,PR,Dual carriageway
+3466,A711,PR,Dual carriageway
+3467,A713,PR,One way street
+3468,A718,PU,Single carriageway
+3469,A719,PU,Dual carriageway
+3470,A724,PR,Roundabout
+3471,A725,TU,Single carriageway
+3472,A728,PU,Single carriageway
+3473,A736,PU,Dual carriageway
+3474,A738,PU,Dual carriageway
+3475,A741,PU,One way street
+3476,A746,PR,Single carriageway
+3477,A752,PU,Roundabout
+3478,A762,PR,Single carriageway
+3479,A800,PR,Single carriageway
+3480,A807,PR,Roundabout
+3481,A809,PR,Single carriageway
+3482,A822,PR,Roundabout
+3483,A827,PR,Single carriageway
+3484,A835,PR,Single carriageway
+3485,A839,PR,Single carriageway
+3486,A841,PR,Single carriageway
+3487,A849,PR,Single carriageway
+3488,A850,PR,Dual carriageway
+3489,A855,PR,Single carriageway
+3490,A875,PR,Single carriageway
+3491,A883,PR,Roundabout
+3492,A889,TR,Single carriageway
+3493,A899,PU,Single carriageway
+3494,A900,PU,Single carriageway
+3495,A910,PU,Roundabout
+3496,A911,PU,Single carriageway
+3497,A912,PU,Single carriageway
+3498,A92,TR,Slip road
+3499,A917,PU,Single carriageway
+3500,A929,PU,Single carriageway
+3501,A930,PR,Single carriageway
+3502,A935,PR,Roundabout
+3503,A940,PR,Single carriageway
+3504,A947,PR,Roundabout
+3505,A950,PR,Single carriageway
+3506,A963,PR,Single carriageway
+3507,A966,PR,Single carriageway
+3508,A978,PU,Dual carriageway
+3509,A980,PR,Roundabout
+3510,A990,PR,Roundabout
+3511,A994,PR,Single carriageway
+3512,A6093,PR,Dual carriageway
+3513,A8011,PU,Slip road
+3514,A772,PR,Single carriageway
+3515,A808,PU,Single carriageway
+3516,A717,PU,Roundabout
+3517,A8015,PR,Single carriageway
+3518,A720,TR,Single carriageway
+3519,A837,PR,Dual carriageway
+3520,M876,TM,Roundabout
+3521,A7,TR,Roundabout
+3522,A8,TR,Dual carriageway
+3523,A73,PR,Roundabout
+3524,A76,TR,Dual carriageway
+3525,A77,TR,Roundabout
+3526,A78,TU,Roundabout
+3527,A82,PU,Roundabout
+3528,A96,TR,Slip road
+3529,A828,TR,Roundabout
+3530,A830,TR,Single carriageway
+3531,A835,TR,Single carriageway
+3532,A882,PR,One way street
+3533,A898,TR,Single carriageway
+3534,A1,PU,Single carriageway
+3535,A770,PU,Single carriageway
+3536,A77,PU,Dual carriageway
+3537,A81,PR,Dual carriageway
+3538,A85,PU,Single carriageway
+3539,A989,PU,Single carriageway
+3540,A199,PU,Dual carriageway
+3541,A705,PR,Single carriageway
+3542,A706,PR,Roundabout
+3543,A713,PR,Roundabout
+3544,A716,PR,Dual carriageway
+3545,A724,PU,Dual carriageway
+3546,A726,PR,Roundabout
+3547,A736,PR,Dual carriageway
+3548,A747,PR,Dual carriageway
+3549,A801,PR,Single carriageway
+3550,A810,PU,Single carriageway
+3551,A819,PR,Dual carriageway
+3552,A823,PU,Roundabout
+3553,A836,PR,Dual carriageway
+3554,A87,TR,Roundabout
+3555,A851,PR,Dual carriageway
+3556,A858,PR,Dual carriageway
+3557,A859,PR,Roundabout
+3558,A863,PR,Single carriageway
+3559,A879,PR,Single carriageway
+3560,A901,PU,Dual carriageway
+3561,A904,PR,Roundabout
+3562,A905,PU,Single carriageway
+3563,A912,PR,Single carriageway
+3564,A932,PR,Single carriageway
+3565,A942,PR,Single carriageway
+3566,A964,PR,Roundabout
+3567,A968,PR,Roundabout
+3568,A975,PR,Roundabout
+3569,A984,PR,Single carriageway
+3570,A6094,PU,Single carriageway
+3571,A6105,PR,Dual carriageway
+3572,A6106,PU,Single carriageway
+3573,A8010,PU,Single carriageway
+3574,A700,PU,Single carriageway
+3575,A83,TR,Dual carriageway
+3576,A84,TR,Dual carriageway
+3577,A96,TR,One way street
+3578,A828,TR,Single carriageway
+3579,A977,PR,Dual carriageway
+3580,A985,TU,Dual carriageway
+3581,M8,TM,Roundabout
+3582,M876,TM,Single carriageway
+3583,A701,PU,Single carriageway
+3584,A8,PR,Roundabout
+3585,A71,PR,Roundabout
+3586,A72,PU,Single carriageway
+3587,A79,PU,Single carriageway
+3588,A83,PR,Single carriageway
+3589,A92,PU,Dual carriageway
+3590,A921,PR,Dual carriageway
+3591,A95,TR,Dual carriageway
+3592,A699,PR,Single carriageway
+3593,A702,PU,Roundabout
+3594,A705,PU,Single carriageway
+3595,A710,PU,Roundabout
+3596,A711,PR,Roundabout
+3597,A713,PU,Dual carriageway
+3598,A721,PU,Dual carriageway
+3599,A735,PR,Dual carriageway
+3600,A737,TR,Single carriageway
+3601,A749,PU,Roundabout
+3602,A803,PU,Dual carriageway
+3603,A803,PU,Roundabout
+3604,A809,PR,Roundabout
+3605,A836,PR,Roundabout
+3606,A846,PR,Dual carriageway
+3607,A848,PR,Single carriageway
+3608,A857,PR,Dual carriageway
+3609,A859,PR,Slip road
+3610,A865,PR,Roundabout
+3611,A873,PR,Roundabout
+3612,A887,TR,Single carriageway
+3613,A904,PU,Roundabout
+3614,A909,PR,Dual carriageway
+3615,A911,PR,Dual carriageway
+3616,A912,PR,Dual carriageway
+3617,A917,PU,Roundabout
+3618,A947,PR,Dual carriageway
+3619,A955,PR,Single carriageway
+3620,A960,PR,Dual carriageway
+3621,A966,PR,Roundabout
+3622,A967,PR,Roundabout
+3623,A968,PR,Dual carriageway
+3624,A970,PR,Roundabout
+3625,A978,PU,Single carriageway
+3626,A980,PR,Single carriageway
+3627,A981,PR,Slip road
+3628,A6095,PU,Single carriageway
+3629,A8011,PU,Dual carriageway
+3630,A801,PR,Dual carriageway
+3631,A893,TR,Single carriageway
+3632,M9,TM,Roundabout
+3633,M74,TM,Dual carriageway
+3634,A823,TM,One way street
+3635,A82,TR,Roundabout
+3636,A199,PR,Single carriageway
+3637,A772,PU,Roundabout
+3638,A770,PR,Single carriageway
+3639,A8,PR,Dual carriageway
+3640,A882,PR,Single carriageway
+3641,A68,TR,Dual carriageway
+3642,A9,PU,Dual carriageway
+3643,A70,PU,Dual carriageway
+3644,A77,TR,Dual carriageway
+3645,A70,PR,One way street
+3646,A952,PR,Roundabout
+3647,A735,PU,Dual carriageway
+3648,A72,PU,Roundabout
+3649,A91,PR,Dual carriageway
+3650,A72,PR,Slip road
+3651,A74,PU,Dual carriageway
+3652,A88,PU,Dual carriageway
+3653,A985,TR,Dual carriageway
+3654,A77,PU,Roundabout
+3655,A77,PR,Dual carriageway
+3656,A9,PR,Dual carriageway
+3657,A923,PU,Roundabout
+3658,A81,PU,Roundabout
+3659,A812,PR,Single carriageway
+3660,A7066,PR,Roundabout
+3661,A6137,PR,Roundabout
+3662,A6112,PR,Roundabout
+3663,A6106,PR,Single carriageway
+3664,A84,PR,Dual carriageway
+3665,A6094,PR,One way street
+3666,A990,PR,Dual carriageway
+3667,A972,TU,Single carriageway
+3668,A966,PR,Dual carriageway
+3669,A965,PR,Dual carriageway
+3670,A950,PR,Dual carriageway
+3671,A948,PR,Dual carriageway
+3672,A90,TU,Dual carriageway
+3673,A944,PR,Dual carriageway
+3674,A941,PR,Roundabout
+3675,A92,PR,Roundabout
+3676,A928,PR,Single carriageway
+3677,A923,PR,Dual carriageway
+3678,A922,PR,Single carriageway
+3679,A919,PR,Single carriageway
+3680,A921,PR,Slip road
+3681,A902,PU,Single carriageway
+3682,A890,PR,Roundabout
+3683,A886,PR,One way street
+3684,A875,PR,Dual carriageway
+3685,A872,PU,Single carriageway
+3686,A94,PU,Single carriageway
+3687,A862,PR,Dual carriageway
+3688,A859,PR,Dual carriageway
+3689,A96,TU,Single carriageway
+3690,A841,PR,Slip road
+3691,A839,PR,Roundabout
+3692,A1087,PR,Single carriageway
+3693,A199,PU,Single carriageway
+3694,A835,PR,Dual carriageway
+3695,A821,PR,Dual carriageway
+3696,A814,PU,Roundabout
+3697,A811,PU,Roundabout
+3698,A701,PR,Roundabout
+3699,A811,PR,Dual carriageway
+3700,A702,PU,Single carriageway
+3701,A803,PR,Roundabout
+3702,A761,PR,Single carriageway
+3703,A719,PU,Roundabout
+3704,A739,PU,Roundabout
+3705,A730,PU,Dual carriageway
+3706,A726,PR,Dual carriageway
+3707,A722,PU,Roundabout
+3708,A721,PR,Dual carriageway
+3709,A718,PR,Roundabout
+3710,A92,TR,Dual carriageway
+3711,A714,PR,Dual carriageway
+3712,A96,TU,Dual carriageway
+3713,A98,PU,Single carriageway
+3714,A817,PR,Single carriageway
+3715,A921,PU,Roundabout
+3716,A8006,PU,Dual carriageway
+3717,A779,PR,Single carriageway
+3718,A725,TR,Single carriageway
+3719,A780,PU,Roundabout
+3720,A199,PU,Roundabout
+3721,A90,TR,Roundabout
+3722,A945,PU,Single carriageway
+3723,A956,PU,Dual carriageway
+3724,A9011,PU,Dual carriageway
+3725,A98,PR,Roundabout
+3726,A95,PR,Dual carriageway
+3727,A939,PR,Slip road
+3728,A930,PU,Single carriageway
+3729,A926,PR,Dual carriageway
+3730,A933,PU,Single carriageway
+3731,A885,PR,Single carriageway
+3732,A85,TR,Dual carriageway
+3733,A848,PR,Roundabout
+3734,A7,PU,Roundabout
+3735,A907,PR,Roundabout
+3736,A70,PR,Roundabout
+3737,A759,PR,Single carriageway
+3738,A6095,PU,Roundabout
+3739,A1,PR,Dual carriageway
+3740,A720,TR,Roundabout
+3741,A6094,PR,Dual carriageway
+3742,M77,TM,Roundabout
+3743,M77,TM,Single carriageway
+3744,A876,TR,Roundabout
+3745,A9,PR,Single carriageway
+3746,A904,PU,Dual carriageway
+3747,A730,PU,Roundabout
+3748,A749,PU,One way street
+3749,A763,PU,Single carriageway
+3750,A74,PR,Single carriageway
+3751,A74,PR,Roundabout
+3752,M73,TM,Single carriageway
+3753,A771,PU,Roundabout
+3754,A737,TR,Dual carriageway
+3755,A760,PR,Dual carriageway
+3756,A723,PU,One way street
+3757,A775,PR,Single carriageway
+3758,A898,TR,Dual carriageway
+3759,A77,TR,Slip road
+3760,A888,PR,Single carriageway
+3761,M74,TM,Roundabout
+3762,A9013,PU,Dual carriageway
+3763,A814,PR,Dual carriageway
+3764,A803,PU,One way street
+3765,A95,TR,Slip road
+3766,A812,PR,Slip road
+3767,A763,PU,Roundabout
+3768,M80,TM,Dual carriageway
+3769,A956,PR,Single carriageway
+3770,A944,PU,Dual carriageway
+3771,A96,TU,Slip road
+3772,A907,PU,Roundabout
+3773,A908,PU,Dual carriageway
+3774,A79,PR,Single carriageway
+3775,A833,PU,Single carriageway
+3776,A915,PU,Roundabout
+3777,A916,PR,Dual carriageway
+3778,A73,PU,Slip road
+3779,A73,PU,Single carriageway
+3780,A910,PR,Dual carriageway
+3781,A909,PU,Single carriageway
+3782,A768,PU,Roundabout
+3783,A82,TU,Dual carriageway
+3784,A811,PU,Single carriageway
+3785,A768,PR,Single carriageway
+3786,A710,PU,Single carriageway
+3787,A709,PU,Roundabout
+3788,A76,TU,Roundabout
+3789,A923,PU,Single carriageway
+3790,A823,PU,Dual carriageway
+3791,A772,PU,Single carriageway
+3792,A6124,PU,Single carriageway
+3793,A6094,PR,Roundabout
+3794,A199,PR,Dual carriageway
+3795,A941,PU,Single carriageway
+3796,A932,PR,Roundabout
+3797,A932,PU,Roundabout
+3798,A981,PU,Slip road
+3799,A911,PU,Slip road
+3800,A92,TU,Roundabout
+3801,A761,PU,Dual carriageway
+3802,A7,TU,Single carriageway
+3803,A698,PU,Single carriageway
+3804,A862,PU,Single carriageway
+3805,A71,PU,Single carriageway
+3806,A737,PR,One way street
+3807,A737,TU,Single carriageway
+3808,A759,PR,Dual carriageway
+3809,A910,PR,Single carriageway
+3810,A71,PU,Dual carriageway
+3811,A800,PU,Single carriageway
+3812,A937,PU,Roundabout
+3813,A766,PU,One way street
+3814,A85,PR,Dual carriageway
+3815,A950,PU,Single carriageway
+3816,A982,PR,Single carriageway
+3817,A917,PR,Roundabout
+3818,A77,TU,Dual carriageway
+3819,A706,PR,Dual carriageway
+3820,A725,TR,Dual carriageway
+3821,A73,PR,One way street
+3822,A89,PU,Slip road
+3823,A736,PU,Roundabout
+3824,A82,PR,Single carriageway
+3825,A809,PU,One way street
+3826,A807,PU,Dual carriageway
+3827,A80,PR,Single carriageway
+3828,A935,PU,Dual carriageway
+3829,A84,PU,Dual carriageway
+3830,A82,TU,Slip road
+3831,A9,TU,Single carriageway
+3832,A920,PR,Roundabout
+3833,A944,PU,Single carriageway
+3834,A957,PR,Roundabout
+3835,A9012,PU,Single carriageway
+3836,A824,PR,Single carriageway
+3837,A824,PR,Roundabout
+3838,A926,PU,Single carriageway
+3839,A932,PU,Dual carriageway
+3840,A93,PU,Dual carriageway
+3841,A912,PU,Dual carriageway
+3842,A989,PU,Dual carriageway
+3843,A92,PU,Roundabout
+3844,A934,PR,Single carriageway
+3845,A824,PR,Slip road
+3846,A876,TR,Single carriageway
+3847,A910,PU,Single carriageway
+3848,A977,TR,Dual carriageway
+3849,A955,PU,Dual carriageway
+3850,A910,PU,Dual carriageway
+3851,A913,PR,Dual carriageway
+3852,A917,PR,Dual carriageway
+3853,A918,PU,Roundabout
+3854,A6095,PU,Dual carriageway
+3855,A1,PU,One way street
+3856,A8,PU,One way street
+3857,A6094,PU,Dual carriageway
+3858,A768,PU,Dual carriageway
+3859,A6094,PU,One way street
+3860,A1140,PU,Roundabout
+3861,A1,PU,Roundabout
+3862,A90,PU,Dual carriageway
+3863,A811,PU,Dual carriageway
+3864,A91,PU,Single carriageway
+3865,A905,PU,Roundabout
+3866,A993,PR,Single carriageway
+3867,A6091,TR,Dual carriageway
+3868,A75,TR,Roundabout
+3869,A73,PU,Dual carriageway
+3870,A775,PU,Single carriageway
+3871,A735,PU,Roundabout
+3872,A8003,PR,Roundabout
+3873,A880,PR,Single carriageway
+3874,A814,PR,Roundabout
+3875,A891,PR,Dual carriageway
+3876,A726,PU,Slip road
+3877,A759,PR,Roundabout
+3878,A737,PR,Single carriageway
+3879,A735,PR,Roundabout
+3880,A728,PU,Dual carriageway
+3881,A75,TR,One way street
+3882,A755,PR,Dual carriageway
+3883,A755,PR,Single carriageway
+3884,A781,PU,Roundabout
+3885,A780,PU,Dual carriageway
+3886,A780,PR,Dual carriageway
+3887,A701,PR,Dual carriageway
+3888,A76,PU,Single carriageway
+3889,A751,TR,Single carriageway
+3890,A961,PR,Dual carriageway
+3891,A969,PR,Roundabout
+3892,A969,PR,Single carriageway
+3893,A978,PU,Roundabout
+3894,A866,PR,Single carriageway
+3895,A68,TR,Slip road
+3896,A88,PR,Single carriageway
+3897,A823,PR,Roundabout
+3898,A1107,PR,Single carriageway
+3899,A91,PR,Slip road
+3900,A82,TU,Single carriageway
+3901,A85,PR,Roundabout
+3902,A6091,TU,Single carriageway
+3903,M80,TM,Roundabout
+3904,A772,PR,Roundabout
+3905,A811,PR,Roundabout
+3906,A74,TM,Dual carriageway
+3907,A929,PR,Single carriageway
+3908,A702,PR,Dual carriageway
+3909,A991,PU,Dual carriageway
+3910,A982,PU,Single carriageway
+3911,A982,PU,Dual carriageway
+3912,A950,PR,Roundabout
+3913,A720,PR,Single carriageway
+3914,A749,PR,Roundabout
+3915,A749,PR,Dual carriageway
+3916,A720,TR,Dual carriageway
+3917,A8,TR,Roundabout
+3918,A84,TR,Roundabout
+3919,A701,TR,Dual carriageway
+3920,A816,PR,Dual carriageway
+3921,A9,PU,Roundabout
+3922,A72,PR,Dual carriageway
+3923,A80,PU,Dual carriageway
+3924,A90,PR,Roundabout
+3925,A9013,PU,Roundabout
+3926,A94,PR,Roundabout
+3927,A198,PR,Roundabout
+3928,A707,PR,Dual carriageway
+3929,A710,PR,Roundabout
+3930,A716,PR,Roundabout
+3931,A725,PU,Single carriageway
+3932,A752,PR,Dual carriageway
+3933,A759,PU,Dual carriageway
+3934,A766,PR,Roundabout
+3935,A804,PU,Dual carriageway
+3936,A810,PU,Roundabout
+3937,A813,PU,Single carriageway
+3938,A815,PR,Roundabout
+3939,A821,PR,Roundabout
+3940,A844,PR,Dual carriageway
+3941,A867,PR,Dual carriageway
+3942,A884,PR,Dual carriageway
+3943,A890,PR,Dual carriageway
+3944,A896,PR,Dual carriageway
+3945,A911,PR,Roundabout
+3946,A915,PU,Dual carriageway
+3947,A930,PU,Dual carriageway
+3948,A933,PR,Roundabout
+3949,A941,PR,Dual carriageway
+3950,A981,PR,Dual carriageway
+3951,A6089,PR,Dual carriageway
+3952,A8000,PR,Dual carriageway
+3953,A704,PR,Single carriageway
+3954,A8,TU,Dual carriageway
+3955,A91,PR,Unknown
+3956,A86,TR,Dual carriageway
+3957,A921,PU,Dual carriageway
+3958,A712,PR,Dual carriageway
+3959,A713,PR,Dual carriageway
+3960,A723,PR,Roundabout
+3961,A745,PR,Dual carriageway
+3962,A760,PR,Roundabout
+3963,A815,PR,Dual carriageway
+3964,A827,PR,Roundabout
+3965,A837,PR,Roundabout
+3966,A847,PR,Dual carriageway
+3967,A851,PR,Slip road
+3968,A897,PR,Dual carriageway
+3969,A903,PU,Roundabout
+3970,A905,PR,Roundabout
+3971,A908,PR,Dual carriageway
+3972,A916,PR,Roundabout
+3973,A924,PR,Roundabout
+3974,A935,PR,Dual carriageway
+3975,A939,PR,Roundabout
+3976,A949,PR,Dual carriageway
+3977,A971,PR,Dual carriageway
+3978,A993,PU,Dual carriageway
+3979,A6124,PR,Dual carriageway
+3980,A877,PU,Single carriageway
+3981,A7,PR,Roundabout
+3982,A80,TR,Roundabout
+3983,A82,PU,Dual carriageway
+3984,A834,PR,Single carriageway
+3985,A92,TU,Dual carriageway
+3986,A914,PR,Dual carriageway
+3987,A707,PR,Single carriageway
+3988,A718,PU,Dual carriageway
+3989,A719,PU,Single carriageway
+3990,A724,PR,Slip road
+3991,A752,PU,Single carriageway
+3992,A807,PR,Single carriageway
+3993,A849,PR,Roundabout
+3994,A861,PR,Roundabout
+3995,A875,PR,One way street
+3996,A883,PR,Dual carriageway
+3997,A889,TR,Dual carriageway
+3998,A899,PU,Dual carriageway
+3999,A900,PU,Roundabout
+4000,A909,PR,Roundabout
+4001,A929,PU,Roundabout
+4002,A930,PR,Roundabout
+4003,A939,PR,One way street
+4004,A994,PR,Dual carriageway
+4005,A717,PU,Single carriageway
+4006,A8015,PR,Roundabout
+4007,A816,PR,One way street
+4008,A72,PR,One way street
+4009,A85,PR,Slip road
+4010,A90,PU,Roundabout
+4011,A719,PR,Roundabout
+4012,A723,PR,Dual carriageway
+4013,A725,TU,Roundabout
+4014,A749,PU,Dual carriageway
+4015,A804,PU,Roundabout
+4016,A811,PR,One way street
+4017,A819,PR,Roundabout
+4018,A851,PR,Roundabout
+4019,A867,PR,Roundabout
+4020,A872,PR,One way street
+4021,A884,PR,Roundabout
+4022,A891,PR,Roundabout
+4023,A901,PU,Roundabout
+4024,A926,PR,Roundabout
+4025,A932,PR,Dual carriageway
+4026,A944,PR,Roundabout
+4027,A970,PR,One way street
+4028,A984,PR,Roundabout
+4029,A6106,PU,Roundabout
+4030,A830,TR,Dual carriageway
+4031,A977,PR,Slip road
+4032,M8,TM,Slip road
+4033,A99,PR,Roundabout
+4034,A70,PU,Roundabout
+4035,A81,PR,One way street
+4036,A83,PR,Dual carriageway
+4037,A697,PR,Roundabout
+4038,A705,PU,Roundabout
+4039,A713,PU,Roundabout
+4040,A827,PR,One way street
+4041,A838,PR,Slip road
+4042,A841,PR,Dual carriageway
+4043,A846,PR,Roundabout
+4044,A862,PR,One way street
+4045,A913,PR,Roundabout
+4046,A917,PU,Dual carriageway
+4047,A930,PR,Dual carriageway
+4048,A955,PR,One way street
+4049,A752,PU,Dual carriageway
+4050,A823,TM,Dual carriageway
+4051,A8,PR,Slip road
+4052,A9,TR,One way street
+4053,A78,TR,One way street
+4054,A952,PR,Single carriageway
+4055,A72,PU,Dual carriageway
+4056,A702,TR,One way street
+4057,A88,PU,Roundabout
+4058,A77,PU,One way street
+4059,A7066,PR,Single carriageway
+4060,A6137,PR,Dual carriageway
+4061,A6112,PR,Dual carriageway
+4062,A84,PR,Single carriageway
+4063,A6089,PR,Roundabout
+4064,A990,PR,Single carriageway
+4065,A984,PR,Dual carriageway
+4066,A971,PR,Roundabout
+4067,A948,PR,Roundabout
+4068,A937,PR,Dual carriageway
+4069,A933,PR,Dual carriageway
+4070,A928,PR,Slip road
+4071,A919,PR,Dual carriageway
+4072,A899,PR,Single carriageway
+4073,A896,PR,Roundabout
+4074,A890,PR,One way street
+4075,A865,PR,One way street
+4076,A857,PR,Roundabout
+4077,A836,PR,One way street
+4078,A823,PR,One way street
+4079,A706,PU,Roundabout
+4080,A746,PR,Dual carriageway
+4081,A739,PU,Slip road
+4082,A722,PU,Single carriageway
+4083,A721,PR,Roundabout
+4084,A714,PR,Slip road
+4085,A71,PR,One way street
+4086,A961,PR,Roundabout
+4087,A820,PR,Dual carriageway
+4088,A705,PU,Slip road
+4089,A779,PR,Dual carriageway
+4090,A945,PU,Dual carriageway
+4091,A9011,PU,Single carriageway
+4092,A933,PU,Roundabout
+4093,A701,PR,Slip road
+4094,A703,PR,Dual carriageway
+4095,A7,PU,Slip road
+4096,A736,PR,Roundabout
+4097,A735,PU,One way street
+4098,A6124,PR,Roundabout
+4099,A6106,PR,Roundabout
+4100,M73,TM,Roundabout
+4101,A771,PU,Dual carriageway
+4102,A737,TR,Roundabout
+4103,A888,PR,Dual carriageway
+4104,A938,PR,Roundabout
+4105,A83,PR,Slip road
+4106,A812,PR,Dual carriageway
+4107,A879,PR,Dual carriageway
+4108,M9,TM,Unknown
+4109,A923,PR,Roundabout
+4110,A956,PR,Roundabout
+4111,A907,PU,Dual carriageway
+4112,A908,PU,Single carriageway
+4113,A915,PR,Dual carriageway
+4114,A915,PR,Unknown
+4115,A768,PU,Single carriageway
+4116,A768,PR,One way street
+4117,A710,PU,Dual carriageway
+4118,A709,PU,Unknown
+4119,A76,TU,One way street
+4120,A923,PU,Dual carriageway
+4121,A90,PU,One way street
+4122,A929,PU,Slip road
+4123,A932,PU,Single carriageway
+4124,A981,PU,Single carriageway
+4125,A98,PU,Dual carriageway
+4126,A911,PU,Dual carriageway
+4127,A770,PR,Dual carriageway
+4128,A7,TU,Dual carriageway
+4129,A862,PU,Roundabout
+4130,A803,PU,Unknown
+4131,A955,PR,Dual carriageway
+4132,A706,PU,Slip road
+4133,A937,PU,Single carriageway
+4134,A766,PU,Single carriageway
+4135,A94,PU,Dual carriageway
+4136,A982,PR,Roundabout
+4137,A74,PU,Roundabout
+4138,A726,PR,Slip road
+4139,A82,PR,Roundabout
+4140,A807,PU,Single carriageway
+4141,A935,PU,Single carriageway
+4142,A90,TU,One way street
+4143,A90,TR,Slip road
+4144,A937,PR,Roundabout
+4145,A989,PU,Roundabout
+4146,A933,PU,Dual carriageway
+4147,A934,PR,Roundabout
+4148,A977,TR,Single carriageway
+4149,A918,PU,Single carriageway
+4150,A909,PR,One way street
+4151,A199,PR,Slip road
+4152,A8,PU,Unknown
+4153,A768,PR,Roundabout
+4154,A6095,PU,Unknown
+4155,A6094,PU,Unknown
+4156,A1140,PU,Single carriageway
+4157,A811,PU,Unknown
+4158,A91,PU,Dual carriageway
+4159,A905,PU,One way street
+4160,A6091,TR,Single carriageway
+4161,M74,TM,Unknown
+4162,A80,PU,Unknown
+4163,A78,TU,One way street
+4164,A8003,PR,Single carriageway
+4165,A880,PR,Roundabout
+4166,A726,PU,One way street
+4167,A759,PU,Roundabout
+4168,A737,PU,Dual carriageway
+4169,A77,PU,Slip road
+4170,A709,PR,Dual carriageway
+4171,A713,PR,Slip road
+4172,A781,PU,Dual carriageway
+4173,A701,PR,Unknown
+4174,A7,TR,Unknown
+4175,A746,PR,Roundabout
+4176,A857,PR,Slip road
+4177,A866,PR,Dual carriageway
+4178,A75,TR,Slip road
+4179,A775,PU,Dual carriageway
+4180,A77,PR,Slip road
+4181,A904,PR,Dual carriageway
+4182,A923,PR,Slip road
+4183,A82,TU,Roundabout
+4184,A87,TR,Slip road
+4185,A737,PU,Roundabout
+4186,M74,TM,Slip road
+4187,A736,PU,Slip road
+4188,A74,TM,Single carriageway
+4189,A737,TR,Unknown
+4190,A749,PR,Single carriageway
+4191,A749,PU,Slip road
+4192,M77,TM,Dual carriageway
+4193,M90,TM,One way street
+4194,A702,TR,Slip road
+4195,A90,PR,Dual carriageway
+4196,A92,TR,Unknown
+4197,A921,PR,One way street
+4198,A710,PR,Single carriageway
+4199,A718,PR,Slip road
+4200,A737,PU,Slip road
+4201,A78,PU,One way street
+4202,A752,PR,One way street
+4203,A766,PR,Single carriageway
+4204,A801,PR,Slip road
+4205,A803,PR,One way street
+4206,A811,PR,Unknown
+4207,A831,PR,Roundabout
+4208,A861,PR,Slip road
+4209,A879,PU,Roundabout
+4210,A890,PR,Unknown
+4211,A8014,PU,Dual carriageway
+4212,A68,TR,Unknown
+4213,A83,TR,Unknown
+4214,A957,PR,Dual carriageway
+4215,A96,TR,Unknown
+4216,A9,TR,Unknown
+4217,A89,PU,Unknown
+4218,A92,PU,One way street
+4219,A95,PR,Unknown
+4220,A702,PR,Roundabout
+4221,A709,PR,One way street
+4222,A833,PR,Dual carriageway
+4223,A836,PR,Unknown
+4224,A844,PR,Roundabout
+4225,A846,PR,One way street
+4226,A851,PR,One way street
+4227,A907,PR,Slip road
+4228,A908,PR,Roundabout
+4229,A960,PR,One way street
+4230,A964,PR,Slip road
+4231,A975,PR,Dual carriageway
+4232,A986,PR,Roundabout
+4233,A877,PU,Slip road
+4234,A99,TR,One way street
+4235,A75,TU,Roundabout
+4236,A85,TR,One way street
+4237,A702,TR,Roundabout
+4238,A834,PR,One way street
+4239,A905,PR,Dual carriageway
+4240,A79,PU,One way street
+4241,A89,PR,Slip road
+4242,A96,PU,Dual carriageway
+4243,A699,PR,One way street
+4244,A706,PU,Dual carriageway
+4245,A712,PR,Roundabout
+4246,A724,PR,Single carriageway
+4247,A736,PU,Unknown
+4248,A809,PR,Unknown
+4249,A835,PR,Roundabout
+4250,A87,TR,Unknown
+4251,A883,PR,Single carriageway
+4252,A900,PU,Dual carriageway
+4253,A905,PR,Slip road
+4254,A917,PU,Unknown
+4255,A965,PR,Slip road
+4256,A970,PR,Unknown
+4257,A6093,PR,One way street
+4258,A772,PR,Slip road
+4259,A828,TR,Dual carriageway
+4260,A7,PR,Dual carriageway
+4261,A97,PR,One way street
+4262,A701,PR,One way street
+4263,A705,PR,Roundabout
+4264,A741,PU,Dual carriageway
+4265,A762,PR,Slip road
+4266,A809,PU,Dual carriageway
+4267,A810,PU,Dual carriageway
+4268,A894,PR,Roundabout
+4269,A911,PR,One way street
+4270,A964,PR,Dual carriageway
+4271,A6105,PR,Unknown
+4272,A6106,PU,Dual carriageway
+4273,A76,TR,One way street
+4274,A84,TR,Slip road
+4275,A701,PU,Dual carriageway
+4276,A8,PU,Slip road
+4277,A780,PU,Slip road
+4278,A79,PU,Roundabout
+4279,A86,TR,Roundabout
+4280,A95,PR,Roundabout
+4281,A702,PU,Dual carriageway
+4282,A706,PR,Slip road
+4283,A713,PU,Single carriageway
+4284,A747,PR,Roundabout
+4285,A760,PR,Slip road
+4286,A838,PR,Roundabout
+4287,A863,PR,One way street
+4288,A920,PR,Dual carriageway
+4289,A929,PU,Dual carriageway
+4290,A947,PR,Slip road
+4291,A965,PR,Roundabout
+4292,A967,PR,Slip road
+4293,A6094,PR,Slip road
+4294,A823,TM,Single carriageway
+4295,A199,PR,One way street
+4296,A772,PU,Dual carriageway
+4297,A86,TR,Slip road
+4298,A812,PR,One way street
+4299,A922,PR,Dual carriageway
+4300,A899,PR,One way street
+4301,A896,PR,One way street
+4302,A865,PR,Slip road
+4303,A865,PR,Unknown
+4304,A863,PR,Unknown
+4305,A859,PR,Unknown
+4306,A850,PR,Slip road
+4307,A97,PR,Unknown
+4308,A701,PU,Slip road
+4309,A730,PU,One way street
+4310,A724,PU,Unknown
+4311,A718,PR,Dual carriageway
+4312,A714,PR,Unknown
+4313,A96,TU,One way street
+4314,A720,TR,Slip road
+4315,A720,TR,One way street
+4316,A779,PR,Slip road
+4317,A978,PU,Slip road
+4318,A98,PR,Slip road
+4319,A885,PR,Dual carriageway
+4320,A885,PR,Unknown
+4321,A6095,PU,One way street
+4322,A9,PR,Roundabout
+4323,A741,PU,Roundabout
+4324,A8,TU,Roundabout
+4325,A771,PU,Single carriageway
+4326,A775,PR,Dual carriageway
+4327,M8,TM,Unknown
+4328,A77,TR,One way street
+4329,A199,PR,Roundabout
+4330,A763,PU,Dual carriageway
+4331,A752,PR,Unknown
+4332,A956,PR,Unknown
+4333,A719,PR,Unknown
+4334,A6094,PU,Roundabout
+4335,A768,PU,Unknown
+4336,A711,PR,One way street
+4337,A710,PU,Slip road
+4338,A709,PU,Single carriageway
+4339,A76,TU,Single carriageway
+4340,A701,TR,Slip road
+4341,A907,PU,Unknown
+4342,A6124,PU,Roundabout
+4343,A941,PU,Unknown
+4344,A803,PR,Slip road
+4345,A981,PU,Roundabout
+4346,A737,PR,Roundabout
+4347,A737,TU,Dual carriageway
+4348,A766,PU,Dual carriageway
+4349,A950,PU,Dual carriageway
+4350,A725,TR,Slip road
+4351,A82,PR,Dual carriageway
+4352,A809,PU,Roundabout
+4353,A807,PU,Roundabout
+4354,A80,PR,One way street
+4355,A84,PU,Single carriageway
+4356,A835,TR,Dual carriageway
+4357,A93,PU,Roundabout
+4358,A96,PU,Roundabout
+4359,A824,PR,Dual carriageway
+4360,A926,PU,Dual carriageway
+4361,A926,PU,Roundabout
+4362,A85,PU,Roundabout
+4363,A977,TR,Roundabout
+4364,A917,PR,Slip road
+4365,A89,PR,Unknown
+4366,A872,PU,Dual carriageway
+4367,A904,PU,Unknown
+4368,A721,PU,Slip road
+4369,A8003,PR,Dual carriageway
+4370,A814,PR,Unknown
+4371,A737,PR,Dual carriageway
+4372,A781,PU,One way street
+4373,A73,PU,Roundabout
+4374,A702,PR,Unknown
+4375,M74,TM,One way street
+4376,A1,TR,Unknown
+4377,A99,PR,Unknown
+4378,A82,PU,One way street
+4379,A91,PR,One way street
+4380,A78,PU,Dual carriageway
+4381,A847,PR,One way street
+4382,A886,PR,Roundabout
+4383,A902,PU,Roundabout
+4384,A937,PR,One way street
+4385,A947,PR,One way street
+4386,A8000,PR,Roundabout
+4387,A82,TR,Unknown
+4388,A83,TR,Roundabout
+4389,M876,TM,One way street
+4390,A77,TU,Roundabout
+4391,A93,PR,One way street
+4392,A198,PR,One way street
+4393,A736,PR,One way street
+4394,A762,PR,Roundabout
+4395,A814,PR,One way street
+4396,A814,PU,Slip road
+4397,A820,PR,Slip road
+4398,A823,PU,Unknown

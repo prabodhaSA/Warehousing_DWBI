@@ -1,0 +1,85 @@
+﻿City_id,City_name,RegionID
+1,London,8
+2,West Midlands,3
+3,Greater Manchester,2
+4,West Yorkshire,7
+5,Kent,2
+6,Merseyside,6
+7,Essex,4
+8,South Yorkshire,8
+9,Hampshire,9
+10,Surrey,9
+11,Tyne and Wear,2
+12,Hertfordshire,6
+13,Lancashire,4
+14,Nottinghamshire,5
+15,Cheshire,8
+16,Staffordshire,1
+17,Derbyshire,2
+18,Norfolk,3
+19,West Sussex,3
+20,Northamptonshire,5
+21,Oxfordshire,9
+22,Devon,8
+23,Suffolk,4
+24,Lincolnshire,7
+25,Gloucestershire,2
+26,Leicestershire,8
+27,Cambridgeshire,9
+28,East Sussex,2
+29,Durham,4
+30,Bristol,4
+31,Warwickshire,9
+32,Buckinghamshire,6
+33,North Yorkshire,1
+34,Bedfordshire,7
+35,Cumbria,4
+36,Somerset,3
+37,Cornwall,6
+38,Wiltshire,2
+39,Shropshire,8
+40,Leicester,1
+41,Worcestershire,9
+42,Kingston upon Hull,8
+43,Plymouth,1
+44,Stoke-on-Trent,8
+45,Derby,3
+46,Dorset,1
+47,Nottingham,6
+48,Southampton,8
+49,Brighton and Hove,3
+50,Herefordshire,8
+51,Northumberland,7
+52,Portsmouth,5
+53,East Riding of Yorkshire,5
+54,Luton,1
+55,Swindon,4
+56,Southend-on-Sea,5
+57,York,4
+58,South Gloucestershire,1
+59,Milton Keynes,1
+60,Bournemouth,8
+61,North Somerset,5
+62,Warrington,8
+63,Peterborough,3
+64,Reading,1
+65,Blackpool,3
+66,North East Lincolnshire,4
+67,Middlesbrough,6
+68,Stockton-on-Tees,6
+69,Blackburn with Darwen,2
+70,Torbay,1
+71,Poole,8
+72,Windsor and Maidenhead,1
+73,North Lincolnshire,8
+74,Bath and North East Somerset,8
+75,Slough,2
+76,Halton,9
+77,Isle of Wight,2
+78,Bracknell Forest,3
+79,Hartlepool,7
+80,Darlington,6
+81,West Berkshire,9
+82,Redcar and Cleveland,7
+83,Wokingham,9
+84,Rutland,2
